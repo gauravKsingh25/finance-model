@@ -76,7 +76,11 @@ def test_markov_switching_synthetic():
     durations = model.get_expected_duration()
     print(f"\nExpected Durations:")
     for regime_key, duration_info in durations.items():
-        print(f"  {duration_info['name']}: {duration_info['expected_duration']:.1f} periods")
+        exp_dur = duration_info['expected_duration']
+        if isinstance(exp_dur, (int, float)):
+            print(f"  {duration_info['name']}: {exp_dur:.1f} periods")
+        else:
+            print(f"  {duration_info['name']}: {exp_dur} periods")
     
     # Evaluate performance
     print("\n" + "=" * 80)

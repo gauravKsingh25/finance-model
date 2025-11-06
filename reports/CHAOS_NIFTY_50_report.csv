@@ -1,0 +1,9 @@
+Metric,Value
+hurst_exponent,0.5783021684919144
+regime,Random Walk
+shannon_entropy,3.9754933472899614
+chaos_metric,0.3975493347289961
+is_chaotic,False
+is_mean_reverting,False
+is_trending,True
+combined_score,0.27707683585641246

@@ -1,0 +1,12 @@
+Metric,Value
+n_events,18
+mu_baseline,0.04044936008733913
+alpha_excitation,1e-06
+beta_decay,4.09132806975506
+branching_ratio,2.444194117290301e-07
+is_stable,True
+fragility_score,2.444194117290301e-07
+excitation_level,Low
+mean_intensity,0.040449361975849495
+max_intensity,0.04044937708381525
+avg_inter_event_time,20.88235294117647

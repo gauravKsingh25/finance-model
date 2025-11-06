@@ -1,0 +1,6 @@
+Model,Purpose,Output,Accuracy,Strengths,Limitations,Feasibility,Recommendation
+Markov Regime Switching,Trend Detection (Bull/Bear),2 regimes with probabilities,70-85% on synthetic,"Statistical rigor, probabilistic","Requires iteration, discrete regimes",HIGH,APPROVED - Stream 1
+"GARCH(1,1)",Volatility Estimation,Conditional volatility + regime,Correlation >0.85 with realized vol,"Industry standard, fast, accurate","Symmetric response, tail risk",HIGH,APPROVED - Stream 2
+Bayesian Changepoint Detection,Structural Break Alarm,Changepoint probabilities,Good detection of major breaks,"Online algorithm, probabilistic, no pre-specification","Sensitive to parameters, false positives",MEDIUM-HIGH,APPROVED - The Alarm
+Hawkes Process,Market Fragility Detection,"Fragility score, branching ratio",Captures event clustering well,"Theoretically sound, self-excitation","Threshold-dependent, few events issue",MEDIUM,APPROVED - Fragility Sensor
+Hurst Exponent & Entropy,Chaos/Trendiness Detection,"H value, regime classification",Excellent regime distinction,"Model-free, actionable, efficient","Needs sufficient data, outlier sensitive",HIGH,STRONGLY APPROVED - Chaos Sensor

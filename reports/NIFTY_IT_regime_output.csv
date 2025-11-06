@@ -1,0 +1,601 @@
+date,trend_regime,volatility_regime,trend_probability,volatility_value,final_regime,regime_description
+2023-02-23,Bear,High-Vol,0.885803447628844,0.012177222918003343,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2023-02-24,Bear,Low-Vol,0.8435300393986664,0.011746655853635499,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-02-27,Bear,Low-Vol,0.547910429720099,0.01181363209342945,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-02-28,Bear,High-Vol,0.7759433215259617,0.012885807663924484,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2023-03-01,Bear,Low-Vol,0.7301838019550547,0.011942573184724414,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-03-02,Bear,High-Vol,0.7241342496976321,0.012286059435074612,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2023-03-03,Bear,High-Vol,0.8659219084387595,0.012397486666977603,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2023-03-06,Bear,Low-Vol,0.8109013328356369,0.011770135932849703,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-03-08,Bear,High-Vol,0.8757851711882877,0.012225032124402407,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2023-03-09,Bear,Low-Vol,0.7998117268270561,0.011790855878086077,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-03-10,Bear,High-Vol,0.8579745294977599,0.012266201782493024,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2023-03-13,Bear,Low-Vol,0.7932380564404836,0.01187011954584436,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-03-14,Bear,Low-Vol,0.5747115036794089,0.012020186417467002,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-03-15,Bear,High-Vol,0.8481410035325034,0.012837858804812313,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2023-03-16,Bear,Low-Vol,0.8519293689001999,0.011776443272442332,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-03-17,Bear,Low-Vol,0.7760766313377407,0.011933315972453656,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-03-20,Bear,High-Vol,0.718052933840688,0.012194445040305028,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2023-03-21,Bear,High-Vol,0.8026262257968032,0.012400226155483016,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2023-03-22,Bear,High-Vol,0.897342254414867,0.012145281092653339,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2023-03-23,Bear,Low-Vol,0.8845776832844942,0.01173933365182797,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-03-24,Bear,Low-Vol,0.9001059618126049,0.011940875414721764,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-03-27,Bear,Low-Vol,0.8966871509819493,0.01182496375074268,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-03-28,Bear,Low-Vol,0.8000415654048576,0.011758322205886079,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-03-29,Bear,Low-Vol,0.6252953218512295,0.0120740412569324,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-03-31,Bull,High-Vol,0.6343311415104824,0.012330232208851898,Volatile Bull,Upward trend with high volatility - Choppy upward movement
+2023-04-03,Bear,High-Vol,0.8067409502183454,0.013179207627825542,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2023-04-05,Bear,Low-Vol,0.7912305646802309,0.011744877932360535,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-04-06,Bear,High-Vol,0.8442779771456194,0.012212621765792917,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2023-04-10,Bear,Low-Vol,0.8107566896418776,0.011947178698548713,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-04-11,Bear,Low-Vol,0.6439549018396933,0.011989790690170912,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-04-12,Bear,High-Vol,0.5247991748549862,0.012415735554226733,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2023-04-13,Bull,High-Vol,0.938590613894935,0.012253145162679979,Volatile Bull,Upward trend with high volatility - Choppy upward movement
+2023-04-17,Bull,High-Vol,0.999998398409433,0.01368536235495993,Volatile Bull,Upward trend with high volatility - Choppy upward movement
+2023-04-18,Bear,High-Vol,0.6223743152409016,0.01823108345037888,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2023-04-19,Bull,Low-Vol,0.5280046752256352,0.011827964804207305,Quiet Bull,Upward trend with low volatility - Ideal for trend following
+2023-04-20,Bear,High-Vol,0.8416136991597862,0.012951872642086876,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2023-04-21,Bear,Low-Vol,0.8750833551623913,0.01175329080745984,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-04-24,Bear,Low-Vol,0.8837030642271373,0.01191245943520903,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-04-25,Bear,Low-Vol,0.9115494934697315,0.011930240801377428,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-04-26,Bear,Low-Vol,0.902099903963935,0.011748682410580837,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-04-27,Bear,Low-Vol,0.8155625131689359,0.01175151387981065,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-04-28,Bear,High-Vol,0.7706202475659762,0.012141197579156831,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2023-05-02,Bear,High-Vol,0.778936504352478,0.012234546870606332,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2023-05-03,Bear,High-Vol,0.828107503396234,0.012208954865693511,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2023-05-04,Bear,Low-Vol,0.8974651197423098,0.012097454527853239,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-05-05,Bear,Low-Vol,0.8976137196307653,0.011779354586506745,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-05-08,Bear,Low-Vol,0.8823347601761513,0.0118399051808819,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-05-09,Bear,Low-Vol,0.8792635010503207,0.011927081030984398,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-05-10,Bear,Low-Vol,0.9111810349924168,0.011962994199555828,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-05-11,Bear,Low-Vol,0.9193076141304237,0.011767127359773366,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-05-12,Bear,Low-Vol,0.9168820427079886,0.0117382843327931,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-05-15,Bear,Low-Vol,0.9122038058771085,0.011762377597723148,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-05-16,Bear,Low-Vol,0.9116614806522865,0.011792599130894511,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-05-17,Bear,Low-Vol,0.8666667681219496,0.011739771570512864,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-05-18,Bear,Low-Vol,0.8570105056810269,0.012008867228760165,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-05-19,Bear,Low-Vol,0.5813604888799069,0.011752887197083112,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-05-22,Bull,High-Vol,0.7893760286324807,0.012379338289162566,Volatile Bull,Upward trend with high volatility - Choppy upward movement
+2023-05-23,Bear,High-Vol,0.7932648097096751,0.013569086978348029,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2023-05-24,Bear,Low-Vol,0.8979116412692358,0.011807134169238334,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-05-25,Bear,Low-Vol,0.8989611317951646,0.011742297788241943,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-05-26,Bear,Low-Vol,0.8129698193670849,0.011754137953937776,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-05-29,Bear,High-Vol,0.8993021319308891,0.012273100749045918,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2023-05-30,Bear,Low-Vol,0.9174286172446494,0.011776122225927332,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-05-31,Bear,Low-Vol,0.9190167160301974,0.01174139055154541,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-06-01,Bear,Low-Vol,0.9140749560748629,0.011744437023012819,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-06-02,Bear,Low-Vol,0.9028559589764458,0.011770930307686748,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-06-05,Bear,Low-Vol,0.8557327675516729,0.011794098721894328,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-06-06,Bear,Low-Vol,0.5638465136338269,0.011785175147948494,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-06-07,Bear,High-Vol,0.8010378659942559,0.012875292520216648,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2023-06-08,Bear,Low-Vol,0.7688518620509672,0.011890227302967328,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-06-09,Bear,High-Vol,0.7835545553295966,0.012237830342176119,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2023-06-12,Bear,Low-Vol,0.6781915511133916,0.012058936143782683,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-06-13,Bear,High-Vol,0.8766848865989135,0.012578905448997663,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2023-06-14,Bear,Low-Vol,0.9095874950073227,0.011774938924461695,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-06-15,Bear,Low-Vol,0.8960886498500042,0.011748073411837024,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-06-16,Bear,Low-Vol,0.9082477998960803,0.011893559127308608,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-06-19,Bear,Low-Vol,0.9050319720543982,0.011791207791975815,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-06-20,Bear,Low-Vol,0.8753608114465299,0.011791910456817586,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-06-21,Bear,Low-Vol,0.9055964399120255,0.012003165297721701,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-06-22,Bear,Low-Vol,0.8770449069478641,0.01175239844113933,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-06-23,Bear,Low-Vol,0.84695136687652,0.01193527873913122,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-06-26,Bear,Low-Vol,0.9019528597259804,0.0121160747239673,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-06-27,Bear,Low-Vol,0.8774010385591275,0.011746773849734415,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-06-28,Bear,Low-Vol,0.81382885372111,0.011890962082864318,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-06-30,Bull,Low-Vol,0.6765628843780289,0.011773817820699077,Quiet Bull,Upward trend with low volatility - Ideal for trend following
+2023-07-03,Bear,High-Vol,0.7993716993873637,0.013396285504766075,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2023-07-04,Bear,Low-Vol,0.8503693546028304,0.011805759784511347,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-07-05,Bear,Low-Vol,0.8983303133250561,0.012012249439675958,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-07-06,Bear,Low-Vol,0.9046223569167428,0.011805407385960497,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-07-07,Bear,Low-Vol,0.8458432582382935,0.011751990900405603,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-07-10,Bear,Low-Vol,0.7860739999495511,0.012032177994432215,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-07-11,Bear,High-Vol,0.856446012646366,0.012286596150853455,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2023-07-12,Bear,Low-Vol,0.7248913336363577,0.011795559924584476,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-07-13,Bull,Low-Vol,0.8031244044670565,0.011988247403920764,Quiet Bull,Upward trend with low volatility - Ideal for trend following
+2023-07-14,Bull,High-Vol,0.999906515884248,0.013114144112672222,Volatile Bull,Upward trend with high volatility - Choppy upward movement
+2023-07-17,Bear,High-Vol,0.7425037494958265,0.016828987473622842,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2023-07-18,Bear,Low-Vol,0.8217540988604619,0.011786897182929596,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-07-19,Bear,Low-Vol,0.8676161818051606,0.012054610700823126,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-07-20,Bear,Low-Vol,0.6881096601000322,0.011739979652644,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-07-21,Bull,Low-Vol,0.9992004750125056,0.011992235958283946,Quiet Bull,Upward trend with low volatility - Ideal for trend following
+2023-07-24,Bear,High-Vol,0.7506230935533662,0.016246688083512664,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2023-07-25,Bear,Low-Vol,0.8930519872173273,0.011832087382247766,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-07-26,Bear,Low-Vol,0.9143435194803712,0.011750328427971064,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-07-27,Bear,Low-Vol,0.9033757125629057,0.011739320834030153,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-07-28,Bear,Low-Vol,0.8106476165469503,0.011741642637651121,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-07-31,Bear,Low-Vol,0.7040725294462127,0.012107049483802779,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-08-01,Bear,High-Vol,0.7517330621751379,0.012421467995404799,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2023-08-02,Bear,High-Vol,0.8310299272239778,0.012247259662018794,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2023-08-03,Bear,Low-Vol,0.8729087983434669,0.012033470303874305,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-08-04,Bear,Low-Vol,0.7226398458350375,0.011752336854631546,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-08-07,Bear,High-Vol,0.7794380237766775,0.012443846131135741,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2023-08-08,Bear,High-Vol,0.8986313224783402,0.012231069588900145,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2023-08-09,Bear,Low-Vol,0.9135341924987423,0.011740574185785621,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-08-10,Bear,Low-Vol,0.9179971185999799,0.01176884090167551,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-08-11,Bear,Low-Vol,0.9091761066525271,0.011742591135126683,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-08-14,Bear,Low-Vol,0.8919457224297201,0.011795116284445108,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-08-16,Bear,Low-Vol,0.8885118721065753,0.011893116143157275,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-08-17,Bear,Low-Vol,0.8629394326338148,0.0118665277022701,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-08-18,Bear,Low-Vol,0.7320088912698393,0.0118780455761991,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-08-21,Bear,High-Vol,0.8096826725378439,0.0124401963972757,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2023-08-22,Bear,High-Vol,0.9031537205690546,0.012130303021714244,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2023-08-23,Bear,Low-Vol,0.9134998246849642,0.011741156842907498,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-08-24,Bear,Low-Vol,0.8884050307487189,0.011740437520733726,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-08-25,Bear,Low-Vol,0.8743845570803304,0.01190396846676506,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-08-28,Bear,Low-Vol,0.9096651521523195,0.011999312419110857,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-08-29,Bear,Low-Vol,0.9113892045561495,0.011763189815278845,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-08-30,Bear,Low-Vol,0.8941652496933284,0.011769675795963401,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-08-31,Bear,Low-Vol,0.8865746228401112,0.011879685133881481,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-09-01,Bear,Low-Vol,0.7694052918339221,0.011784441014097697,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-09-04,Bull,Low-Vol,0.6397713844584143,0.011972337150260384,Quiet Bull,Upward trend with low volatility - Ideal for trend following
+2023-09-05,Bear,High-Vol,0.8215631417488127,0.013294151289242082,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2023-09-06,Bear,Low-Vol,0.9036561423842108,0.011793112812063333,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-09-07,Bear,Low-Vol,0.9062075706358916,0.011741572843772854,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-09-08,Bear,Low-Vol,0.9127652827975903,0.011821232872253406,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-09-11,Bear,Low-Vol,0.8904599482586225,0.011752333085981717,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-09-12,Bear,Low-Vol,0.8454794386498076,0.011859446291175833,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-09-13,Bear,High-Vol,0.8975095766044058,0.012126597855858146,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2023-09-14,Bear,Low-Vol,0.8929358526490455,0.011794325348123628,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-09-15,Bear,Low-Vol,0.8818225696849783,0.011866280552987647,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-09-18,Bear,Low-Vol,0.891028508933947,0.011937745818224774,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-09-20,Bear,Low-Vol,0.9028317907801178,0.011887596948078527,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-09-21,Bear,Low-Vol,0.9169507967761727,0.01183762123086755,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-09-22,Bear,Low-Vol,0.9136025143489342,0.011743363427125255,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-09-25,Bear,Low-Vol,0.8757937503066643,0.011741658106206521,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-09-26,Bear,Low-Vol,0.8891321053833814,0.011996819056895203,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-09-27,Bear,Low-Vol,0.8434293969635225,0.011826564528852024,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-09-28,Bull,Low-Vol,0.5117426651437936,0.011770358301243676,Quiet Bull,Upward trend with low volatility - Ideal for trend following
+2023-09-29,Bear,High-Vol,0.803569187775109,0.013044188006861962,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2023-10-03,Bear,Low-Vol,0.8965748392781878,0.01195147500347855,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-10-04,Bear,Low-Vol,0.8980856030020927,0.011761711797870807,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-10-05,Bear,Low-Vol,0.8765780882963397,0.01182651875668684,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-10-06,Bear,Low-Vol,0.8932396180075618,0.011975260933047415,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-10-09,Bear,Low-Vol,0.9055781072965468,0.011867731875062109,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-10-10,Bear,Low-Vol,0.8591276594663217,0.011754008021781939,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-10-11,Bear,Low-Vol,0.8426359995792481,0.012020841037716888,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-10-12,Bull,Low-Vol,0.5052969928694565,0.011748175320459617,Quiet Bull,Upward trend with low volatility - Ideal for trend following
+2023-10-13,Bear,High-Vol,0.8465372153008643,0.013058052969408162,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2023-10-16,Bear,Low-Vol,0.903730624925357,0.011777991536610277,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-10-17,Bear,Low-Vol,0.9130949714211039,0.011776651132148496,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-10-18,Bear,Low-Vol,0.8967125828281988,0.011753114718484893,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-10-19,Bear,Low-Vol,0.8984952147289937,0.01188237118838867,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-10-20,Bear,Low-Vol,0.834507503759026,0.011780168165191996,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-10-23,Bull,Low-Vol,0.5934420871954298,0.011764746404289109,Quiet Bull,Upward trend with low volatility - Ideal for trend following
+2023-10-25,Bear,High-Vol,0.7129289561814505,0.013166457284837134,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2023-10-26,Bear,Low-Vol,0.7470741661684859,0.012066552499590677,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-10-27,Bear,High-Vol,0.757619238309531,0.01221027147945784,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2023-10-30,Bear,High-Vol,0.8924523253483456,0.012322003314103748,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2023-10-31,Bear,Low-Vol,0.900263810994554,0.011743782055519464,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-11-01,Bear,Low-Vol,0.8298450765493575,0.011758102541046079,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-11-02,Bear,High-Vol,0.8324519788461708,0.012145048002679232,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2023-11-03,Bear,Low-Vol,0.890340163052634,0.012115367951633212,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-11-06,Bear,Low-Vol,0.8868089681528409,0.011817045637094967,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-11-07,Bear,Low-Vol,0.9148928317152297,0.01193263231639835,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-11-08,Bear,Low-Vol,0.9134704008706106,0.011740234010944135,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-11-09,Bear,Low-Vol,0.9008883473558112,0.011769860207915286,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-11-10,Bear,Low-Vol,0.9048520101082627,0.011862687064071049,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-11-12,Bear,Low-Vol,0.8595102799939935,0.011768667135092553,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-11-13,Bear,Low-Vol,0.6948998596131469,0.011876179906614121,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-11-15,Bull,Low-Vol,0.9572590670752313,0.011989171386253614,Quiet Bull,Upward trend with low volatility - Ideal for trend following
+2023-11-16,Bull,High-Vol,0.9447009328468693,0.014015012386725445,Volatile Bull,Upward trend with high volatility - Choppy upward movement
+2023-11-17,Bear,High-Vol,0.7677800524233334,0.01390322819095995,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2023-11-20,Bear,Low-Vol,0.8729680764690182,0.011784834324556554,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-11-21,Bear,Low-Vol,0.9062429484770892,0.011874619547016805,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-11-22,Bear,Low-Vol,0.8857349073377312,0.011756181117268281,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-11-23,Bear,Low-Vol,0.8808075450114924,0.011918651832349383,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-11-24,Bear,Low-Vol,0.8136542024638276,0.011856500374210616,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-11-28,Bear,High-Vol,0.8710543979693711,0.01223047431612971,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2023-11-29,Bear,Low-Vol,0.7870515060437738,0.011805294934215399,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-11-30,Bear,High-Vol,0.8987937046746415,0.012341078367271134,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2023-12-01,Bear,Low-Vol,0.9163054967626663,0.01175117684901691,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-12-04,Bear,Low-Vol,0.910632918017239,0.011739557039719555,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-12-05,Bear,Low-Vol,0.8702241073822841,0.011755906530984888,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-12-06,Bear,Low-Vol,0.7043913284412491,0.011837944170731671,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-12-07,Bear,High-Vol,0.8670460367173749,0.012570955839544927,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2023-12-08,Bear,Low-Vol,0.8103594864844973,0.011746372870585038,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-12-11,Bear,High-Vol,0.891365790435207,0.012243698774797251,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2023-12-12,Bear,Low-Vol,0.8671367569527874,0.011765979497018192,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-12-13,Bear,Low-Vol,0.6042675135183441,0.011745308572020146,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-12-14,Bull,High-Vol,0.9986098426822257,0.012206670397233322,Volatile Bull,Upward trend with high volatility - Choppy upward movement
+2023-12-15,Bull,High-Vol,0.9999788008677886,0.015475463894408834,Volatile Bull,Upward trend with high volatility - Choppy upward movement
+2023-12-18,Bear,High-Vol,0.6979038214860293,0.01721411901320199,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2023-12-19,Bear,Low-Vol,0.6922362211744442,0.011806374141878666,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-12-20,Bull,High-Vol,0.5350829740068026,0.012131588932861042,Volatile Bull,Upward trend with high volatility - Choppy upward movement
+2023-12-21,Bear,High-Vol,0.7106591058492644,0.012930092148267663,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2023-12-22,Bear,Low-Vol,0.5298079002898703,0.011927762448130463,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-12-26,Bear,High-Vol,0.8550229269351193,0.012879418860074342,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2023-12-27,Bear,Low-Vol,0.8949638859079371,0.011753150489637341,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-12-28,Bear,Low-Vol,0.9138909948411401,0.011842844883169558,Quiet Bear,Downward trend with low volatility - Steady decline
+2023-12-29,Bear,Low-Vol,0.9004165841795146,0.011741944485974813,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-01-01,Bear,Low-Vol,0.8765979184429457,0.01183392147224493,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-01-02,Bear,Low-Vol,0.6754189349546582,0.01176273952542858,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-01-03,Bull,Low-Vol,0.878734632932289,0.012103303663236531,Quiet Bull,Upward trend with low volatility - Ideal for trend following
+2024-01-04,Bear,High-Vol,0.7557309864700845,0.013954565469845009,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2024-01-05,Bear,Low-Vol,0.7469412707338077,0.011739923282540608,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-01-08,Bear,High-Vol,0.7718895906332592,0.01225518953179459,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2024-01-09,Bear,High-Vol,0.859718193343904,0.012248756041463115,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2024-01-10,Bear,Low-Vol,0.8830820499587907,0.011923170874264756,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-01-11,Bear,Low-Vol,0.7745104541771569,0.011772469750962446,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-01-12,Bull,Low-Vol,0.9999947000913909,0.011742027345618477,Quiet Bull,Upward trend with low volatility - Ideal for trend following
+2024-01-15,Bull,High-Vol,0.6692157018947501,0.01801801878168369,Volatile Bull,Upward trend with high volatility - Choppy upward movement
+2024-01-16,Bear,High-Vol,0.6188783760450378,0.012665995904893625,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2024-01-17,Bear,High-Vol,0.840759198529973,0.012361960662159189,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2024-01-18,Bear,Low-Vol,0.8855300100488379,0.011880628770798311,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-01-19,Bear,Low-Vol,0.8620590804220964,0.01183064422139184,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-01-20,Bear,Low-Vol,0.8212385050743439,0.011962675521794879,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-01-23,Bear,High-Vol,0.834982305293033,0.0121449775916266,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2024-01-24,Bear,Low-Vol,0.5933442325398717,0.011822639445064337,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-01-25,Bull,High-Vol,0.5351981590286334,0.012516543993365154,Volatile Bull,Upward trend with high volatility - Choppy upward movement
+2024-01-29,Bear,High-Vol,0.8437955878429222,0.012949003130548324,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2024-01-30,Bear,Low-Vol,0.8983631936931176,0.011761636975881798,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-01-31,Bear,Low-Vol,0.8942932149183975,0.011788347242348125,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-02-01,Bear,Low-Vol,0.8135826339339447,0.011785576427322426,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-02-02,Bull,Low-Vol,0.7422586775937724,0.011752736642086417,Quiet Bull,Upward trend with low volatility - Ideal for trend following
+2024-02-05,Bear,High-Vol,0.5507005075371523,0.013417583744442248,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2024-02-06,Bull,Low-Vol,0.9719136277104461,0.011864138748355313,Quiet Bull,Upward trend with low volatility - Ideal for trend following
+2024-02-07,Bear,High-Vol,0.5539693764612482,0.014529170573967277,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2024-02-08,Bear,High-Vol,0.8571862163184208,0.012333790606315821,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2024-02-09,Bear,Low-Vol,0.8927797399736915,0.01175738797848033,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-02-12,Bear,Low-Vol,0.8884225630277299,0.011832796640105165,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-02-13,Bear,Low-Vol,0.8833790074633825,0.01189037512597969,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-02-14,Bear,Low-Vol,0.8375952151307043,0.011866183486560997,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-02-15,Bear,High-Vol,0.8779448100073538,0.012139830316396719,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2024-02-16,Bear,Low-Vol,0.8439856866875317,0.011849591545455077,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-02-19,Bear,Low-Vol,0.8823472270645086,0.012104549068517293,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-02-20,Bear,Low-Vol,0.7720601118902647,0.011758931343561119,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-02-21,Bull,Low-Vol,0.6328428062972896,0.01196801933473462,Quiet Bull,Upward trend with low volatility - Ideal for trend following
+2024-02-22,Bull,High-Vol,0.6419155584818713,0.012966434973152287,Volatile Bull,Upward trend with high volatility - Choppy upward movement
+2024-02-23,Bear,High-Vol,0.7994836414115916,0.013004364422017472,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2024-02-26,Bear,Low-Vol,0.7909133769804888,0.011768990487831777,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-02-27,Bear,High-Vol,0.8604987472193589,0.012228776433584191,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2024-02-28,Bear,Low-Vol,0.8783314976338484,0.011932668429009839,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-02-29,Bear,Low-Vol,0.8958537610713001,0.01193159010100898,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-03-01,Bear,Low-Vol,0.8836645201546669,0.011828355882244422,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-03-02,Bear,Low-Vol,0.8995474827403214,0.011943920211094215,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-03-04,Bear,Low-Vol,0.821487715839277,0.0117430501107188,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-03-05,Bear,Low-Vol,0.6160032042198397,0.011982164103216035,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-03-06,Bear,High-Vol,0.817914248106523,0.012734523974821905,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2024-03-07,Bear,Low-Vol,0.904127600540009,0.011997338237523318,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-03-11,Bear,Low-Vol,0.9098155443101046,0.011738472133427933,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-03-12,Bear,Low-Vol,0.8691113269601376,0.011747224893638086,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-03-13,Bear,Low-Vol,0.7355461163961855,0.011868815553207533,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-03-14,Bull,Low-Vol,0.6327439537213784,0.012077749769635757,Quiet Bull,Upward trend with low volatility - Ideal for trend following
+2024-03-15,Bear,High-Vol,0.6722312971953126,0.013162938766839936,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2024-03-18,Bull,Low-Vol,0.6727089540898864,0.011821872530868319,Quiet Bull,Upward trend with low volatility - Ideal for trend following
+2024-03-19,Bull,High-Vol,0.9755308626840941,0.012739086302818732,Volatile Bull,Upward trend with high volatility - Choppy upward movement
+2024-03-20,Bear,High-Vol,0.7263194861339151,0.01455603339827296,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2024-03-21,Bear,Low-Vol,0.7062606365789623,0.01174524266904981,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-03-22,Bull,Low-Vol,0.7980068586362259,0.011926180251926257,Quiet Bull,Upward trend with low volatility - Ideal for trend following
+2024-03-26,Bear,High-Vol,0.756870265843366,0.013662024357844842,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2024-03-27,Bear,Low-Vol,0.8643391301048207,0.011896591133445938,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-03-28,Bear,Low-Vol,0.9040310960432199,0.011911476318585468,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-04-01,Bear,Low-Vol,0.8957703959507989,0.011772187744669737,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-04-02,Bear,Low-Vol,0.8760173867769752,0.011849350585977683,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-04-03,Bear,Low-Vol,0.8767803884541386,0.01196214109954246,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-04-04,Bear,Low-Vol,0.8370820388403608,0.011889910312842328,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-04-05,Bear,High-Vol,0.8830436862601213,0.012134901468596257,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2024-04-08,Bear,Low-Vol,0.8903640118387263,0.011873076832245527,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-04-09,Bear,Low-Vol,0.9095504968100088,0.011900791416906475,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-04-10,Bear,Low-Vol,0.8916805987887801,0.011757840165021708,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-04-12,Bear,Low-Vol,0.7863438401833663,0.011787227714517914,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-04-15,Bull,Low-Vol,0.622571225625903,0.011932866530478274,Quiet Bull,Upward trend with low volatility - Ideal for trend following
+2024-04-16,Bull,High-Vol,0.9090551085498284,0.012739709531162983,Volatile Bull,Upward trend with high volatility - Choppy upward movement
+2024-04-18,Bear,High-Vol,0.7790941859483658,0.01394847765974123,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2024-04-19,Bear,Low-Vol,0.8509102428499351,0.011741949823251647,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-04-22,Bear,Low-Vol,0.885811591557744,0.011981035793101757,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-04-23,Bear,Low-Vol,0.9105904931632349,0.011890773980082547,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-04-24,Bear,Low-Vol,0.9000587795785895,0.011754769608750115,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-04-25,Bear,Low-Vol,0.9151511432856347,0.01187689214468339,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-04-26,Bear,Low-Vol,0.9069862337579373,0.011745413285744587,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-04-29,Bear,Low-Vol,0.8950919732746974,0.011808723241899655,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-04-30,Bear,Low-Vol,0.8334974564187165,0.011813571918836419,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-05-02,Bear,High-Vol,0.891145976864358,0.012183473825319978,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2024-05-03,Bear,Low-Vol,0.8176899113630773,0.01173906272238905,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-05-06,Bear,High-Vol,0.8228446173168401,0.01217710398612283,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2024-05-07,Bear,High-Vol,0.8760085763684922,0.012129721953519447,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2024-05-08,Bear,Low-Vol,0.8948006649630396,0.011900045966258918,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-05-09,Bear,Low-Vol,0.8989163911438948,0.01185274810722604,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-05-10,Bear,Low-Vol,0.8978440245873119,0.011845977117744362,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-05-13,Bear,Low-Vol,0.9112916426495518,0.011873397633822655,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-05-14,Bear,Low-Vol,0.9154495545726089,0.011781446823107578,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-05-15,Bear,Low-Vol,0.8961494927004672,0.011743700499854657,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-05-16,Bear,Low-Vol,0.7581743707018348,0.011738479858185763,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-05-17,Bear,High-Vol,0.8627188882556471,0.012428126379428141,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2024-05-18,Bear,Low-Vol,0.9096490482081103,0.011927415558730024,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-05-21,Bear,Low-Vol,0.9125647734056019,0.011750327184226996,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-05-22,Bear,Low-Vol,0.8827679952573939,0.011748961113739454,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-05-23,Bear,Low-Vol,0.7822814439327572,0.011840475143615409,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-05-24,Bear,High-Vol,0.8523020738915955,0.012324754863255636,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2024-05-27,Bear,Low-Vol,0.8827331477682363,0.011974062047081084,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-05-28,Bear,Low-Vol,0.8741697300097797,0.011869857241267774,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-05-29,Bear,Low-Vol,0.760691653305921,0.0118380708267547,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-05-30,Bull,Low-Vol,0.5933689277058807,0.012027020187131992,Quiet Bull,Upward trend with low volatility - Ideal for trend following
+2024-05-31,Bear,High-Vol,0.594056835374435,0.013037055433124388,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2024-06-03,Bear,High-Vol,0.8402489800499707,0.012482135964820404,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2024-06-04,Bear,Low-Vol,0.7928967016803108,0.011768045491140857,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-06-05,Bull,Low-Vol,0.7557632576115252,0.011770253921855394,Quiet Bull,Upward trend with low volatility - Ideal for trend following
+2024-06-06,Bull,High-Vol,0.9889575974438951,0.013016054177654626,Volatile Bull,Upward trend with high volatility - Choppy upward movement
+2024-06-07,Bull,High-Vol,0.9929757460023346,0.014341652312072684,Volatile Bull,Upward trend with high volatility - Choppy upward movement
+2024-06-10,Bull,High-Vol,0.6641222378577573,0.014623936556182469,Volatile Bull,Upward trend with high volatility - Choppy upward movement
+2024-06-11,Bear,High-Vol,0.8294651857033989,0.012802828933633765,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2024-06-12,Bear,Low-Vol,0.897631047027919,0.011738271527799281,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-06-13,Bear,Low-Vol,0.8606965215706973,0.011738813295598692,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-06-14,Bear,Low-Vol,0.8602752986586318,0.01202270327742715,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-06-18,Bear,Low-Vol,0.8886211659305242,0.012020343657833683,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-06-19,Bear,Low-Vol,0.9151339736975447,0.011889202690959921,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-06-20,Bear,Low-Vol,0.9184482060362424,0.011745884326690149,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-06-21,Bear,Low-Vol,0.9136645929995969,0.011745654278561179,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-06-24,Bear,Low-Vol,0.9131996645622343,0.011785472338463592,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-06-25,Bear,Low-Vol,0.8758029966618699,0.01174029781343444,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-06-26,Bear,Low-Vol,0.844329509472886,0.011943890238845026,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-06-27,Bull,Low-Vol,0.5207679095291428,0.011746419488480148,Quiet Bull,Upward trend with low volatility - Ideal for trend following
+2024-06-28,Bear,High-Vol,0.7700522443569244,0.013032829370742556,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2024-07-01,Bear,Low-Vol,0.5475667392830834,0.01175060200013586,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-07-02,Bear,High-Vol,0.7045427176937569,0.01277039939720874,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2024-07-03,Bear,High-Vol,0.8738405572513159,0.01230595280737572,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2024-07-04,Bear,Low-Vol,0.8430743471670354,0.011742202793397992,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-07-05,Bear,High-Vol,0.9053153014000227,0.012128433407162648,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2024-07-08,Bear,Low-Vol,0.9111730890111589,0.01175929482146849,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-07-09,Bear,Low-Vol,0.8955385864080491,0.011767747883357785,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-07-10,Bear,Low-Vol,0.8008576093329551,0.01178111957728327,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-07-11,Bear,High-Vol,0.7499481022564216,0.012179354847939885,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2024-07-12,Bull,Low-Vol,0.9999303945018541,0.011743862491593546,Quiet Bull,Upward trend with low volatility - Ideal for trend following
+2024-07-15,Bear,High-Vol,0.7415818396963625,0.017219943845659003,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2024-07-16,Bear,Low-Vol,0.7703722930289278,0.011742794142743764,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-07-18,Bull,Low-Vol,0.6932778043481592,0.011795973972933122,Quiet Bull,Upward trend with low volatility - Ideal for trend following
+2024-07-19,Bear,High-Vol,0.808677589183616,0.01341845035271989,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2024-07-22,Bear,Low-Vol,0.8958188816946885,0.011804897330665977,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-07-23,Bear,Low-Vol,0.8919342483011817,0.011764943643089327,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-07-24,Bear,Low-Vol,0.8992630663127917,0.011890122750284915,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-07-25,Bear,Low-Vol,0.829463292993357,0.011762498927732583,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-07-26,Bull,Low-Vol,0.6570072215478514,0.011745018092225074,Quiet Bull,Upward trend with low volatility - Ideal for trend following
+2024-07-29,Bear,High-Vol,0.8156167223836126,0.013367121419315488,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2024-07-30,Bear,Low-Vol,0.8968773441619673,0.01180144239325081,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-07-31,Bear,Low-Vol,0.8895799677476182,0.01176249268689064,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-08-01,Bear,Low-Vol,0.7546240115163542,0.011754882650325626,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-08-02,Bull,Low-Vol,0.9263018340878548,0.01185473065282331,Quiet Bull,Upward trend with low volatility - Ideal for trend following
+2024-08-05,Bull,High-Vol,0.9964796824822,0.013713534446233543,Volatile Bull,Upward trend with high volatility - Choppy upward movement
+2024-08-06,Bear,High-Vol,0.6217021258713065,0.015178548663828471,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2024-08-07,Bear,Low-Vol,0.5023634275327986,0.01185632714603855,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-08-08,Bull,High-Vol,0.7392857763086282,0.012431527129495714,Volatile Bull,Upward trend with high volatility - Choppy upward movement
+2024-08-09,Bear,High-Vol,0.5260629573356086,0.013211723541269527,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2024-08-12,Bear,High-Vol,0.8434520977409425,0.012538961324088818,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2024-08-13,Bear,Low-Vol,0.834378636644664,0.011741420416638558,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-08-14,Bull,Low-Vol,0.5481847232953434,0.011738252368882311,Quiet Bull,Upward trend with low volatility - Ideal for trend following
+2024-08-16,Bull,High-Vol,0.9597739762574897,0.012551543735604324,Volatile Bull,Upward trend with high volatility - Choppy upward movement
+2024-08-19,Bear,High-Vol,0.6689066716391197,0.014356515766182189,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2024-08-20,Bear,Low-Vol,0.8549663312652278,0.012049992364066182,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-08-21,Bear,Low-Vol,0.9085337406998328,0.011879985286390117,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-08-22,Bear,Low-Vol,0.905797177549351,0.011742018643567768,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-08-23,Bear,Low-Vol,0.8472583177823952,0.011757306406028572,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-08-26,Bear,Low-Vol,0.767478644440627,0.012008771307355748,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-08-27,Bear,High-Vol,0.8430519232825405,0.012333895129145811,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2024-08-28,Bear,Low-Vol,0.6138054320593584,0.011747180618747471,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-08-29,Bear,High-Vol,0.8621101600517036,0.01278227059464776,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2024-08-30,Bear,Low-Vol,0.8948999877604754,0.011782381503477758,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-09-02,Bear,Low-Vol,0.9124950918380649,0.011849330438008225,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-09-03,Bear,Low-Vol,0.907713435195272,0.011760108721473634,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-09-04,Bear,Low-Vol,0.858556971456049,0.011760839030194871,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-09-05,Bear,Low-Vol,0.8841607305656124,0.012074443234901864,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-09-06,Bear,Low-Vol,0.8429042294965406,0.011834550894969244,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-09-09,Bear,Low-Vol,0.8530482702685082,0.01209111794426378,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-09-10,Bear,Low-Vol,0.7287970484280625,0.011877009184875163,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-09-11,Bear,High-Vol,0.8732113647580944,0.012490158264250213,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2024-09-12,Bear,Low-Vol,0.8420074210801071,0.011768270597051607,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-09-13,Bear,Low-Vol,0.8662586994436146,0.012092037332664183,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-09-16,Bear,Low-Vol,0.8891915502859694,0.01196621018467825,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-09-17,Bear,Low-Vol,0.7780700249064465,0.011747022317128064,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-09-18,Bull,Low-Vol,0.974779006396719,0.011748633930768438,Quiet Bull,Upward trend with low volatility - Ideal for trend following
+2024-09-19,Bear,High-Vol,0.7737999644205157,0.01480003952694238,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2024-09-20,Bear,Low-Vol,0.8732674701434954,0.0117483851750845,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-09-23,Bear,Low-Vol,0.863646085550975,0.01183228136212495,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-09-24,Bear,Low-Vol,0.8666085310235454,0.011992901452071398,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-09-25,Bear,Low-Vol,0.8743372099463921,0.011971064699699585,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-09-26,Bear,Low-Vol,0.9064911579014878,0.011972337788803657,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-09-27,Bear,Low-Vol,0.8896314375363908,0.011759173450363765,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-09-30,Bear,Low-Vol,0.8231093209831739,0.011833843594720981,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-10-01,Bear,Low-Vol,0.731574227562038,0.01206634733881937,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-10-03,Bear,High-Vol,0.5729664271219008,0.012196948542172395,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2024-10-04,Bear,High-Vol,0.8444449424566706,0.012792347506393773,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2024-10-07,Bear,Low-Vol,0.8938054027011327,0.01183500999830241,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-10-08,Bear,Low-Vol,0.8866911192941335,0.011807896585570833,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-10-09,Bear,Low-Vol,0.8564062724608547,0.01187252374446105,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-10-10,Bear,Low-Vol,0.7011710363767945,0.011877772783875348,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-10-11,Bear,High-Vol,0.8241122131702421,0.012539311402650195,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2024-10-14,Bear,Low-Vol,0.6904251154731423,0.011837328204373988,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-10-15,Bear,High-Vol,0.81856180326186,0.01252996663897034,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2024-10-16,Bear,Low-Vol,0.7165892005937163,0.011878916356052505,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-10-17,Bear,High-Vol,0.6149575078106719,0.012281168391997778,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2024-10-18,Bear,High-Vol,0.5125438223557852,0.01240174309313457,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2024-10-21,Bull,High-Vol,0.5074438086716213,0.012585940553488596,Volatile Bull,Upward trend with high volatility - Choppy upward movement
+2024-10-22,Bear,High-Vol,0.6870813376096254,0.01270832382335293,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2024-10-23,Bull,Low-Vol,0.6860219426835082,0.011864497630644495,Quiet Bull,Upward trend with low volatility - Ideal for trend following
+2024-10-24,Bear,High-Vol,0.8255372854666729,0.013359686650615963,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2024-10-25,Bear,Low-Vol,0.9015271923504078,0.011745697722612304,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-10-28,Bear,Low-Vol,0.9034840500207142,0.01175768412792257,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-10-29,Bear,Low-Vol,0.8679103475005063,0.011786493592545088,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-10-30,Bear,Low-Vol,0.673209209148579,0.011814299868783455,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-10-31,Bull,Low-Vol,0.9649560145064097,0.012051809550998549,Quiet Bull,Upward trend with low volatility - Ideal for trend following
+2024-11-01,Bear,High-Vol,0.77271633071732,0.01459910643282095,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2024-11-04,Bear,Low-Vol,0.8732866234101369,0.01175738950950082,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-11-05,Bear,Low-Vol,0.7726325498042385,0.011738259815605476,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-11-06,Bull,Low-Vol,0.9998020834228184,0.011739221357138764,Quiet Bull,Upward trend with low volatility - Ideal for trend following
+2024-11-07,Bear,High-Vol,0.6400784852846162,0.016781609353420955,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2024-11-08,Bear,Low-Vol,0.8218469135875126,0.012079702486347233,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-11-11,Bear,Low-Vol,0.7287307840012589,0.011828472168661432,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-11-12,Bear,High-Vol,0.8855801460956619,0.012473763953236539,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2024-11-13,Bear,Low-Vol,0.8958848515931161,0.011754793624238724,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-11-14,Bear,Low-Vol,0.8102826015337301,0.011758845118896761,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-11-18,Bull,Low-Vol,0.7896942872025255,0.01173863971071289,Quiet Bull,Upward trend with low volatility - Ideal for trend following
+2024-11-19,Bear,High-Vol,0.7244522345381236,0.013672871643150666,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2024-11-21,Bear,Low-Vol,0.7066139270576725,0.011857460604291117,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-11-22,Bull,Low-Vol,0.9624633177321207,0.011827292809768533,Quiet Bull,Upward trend with low volatility - Ideal for trend following
+2024-11-25,Bear,High-Vol,0.5945362467555628,0.014486168247915914,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2024-11-26,Bear,High-Vol,0.789926957687652,0.012183817609147106,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2024-11-27,Bear,Low-Vol,0.7859042690854798,0.011974810337403352,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-11-28,Bull,Low-Vol,0.7688150359000583,0.011738369732055618,Quiet Bull,Upward trend with low volatility - Ideal for trend following
+2024-11-29,Bear,High-Vol,0.7988048870891472,0.013636714685616565,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2024-12-02,Bear,Low-Vol,0.8545950219986478,0.011752881471823764,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-12-03,Bear,Low-Vol,0.8858515172684587,0.011977966152327425,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-12-04,Bear,Low-Vol,0.8438456325826392,0.011821189637628356,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-12-05,Bear,Low-Vol,0.5379278642281047,0.011802039207417852,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-12-06,Bear,High-Vol,0.8550587066466568,0.01295697060545153,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2024-12-09,Bear,Low-Vol,0.8986776677953932,0.01176345257646065,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-12-10,Bear,Low-Vol,0.8906062753129549,0.011792214959700304,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-12-11,Bear,Low-Vol,0.9075223117934101,0.01191082430465198,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-12-12,Bear,Low-Vol,0.8682261843511506,0.011746261269681623,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-12-13,Bear,Low-Vol,0.8840965225288384,0.01202030703868797,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-12-16,Bear,Low-Vol,0.8722342977259572,0.011876877235670593,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-12-17,Bear,Low-Vol,0.8790788323132809,0.011972560650995938,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-12-18,Bear,Low-Vol,0.8584607858169573,0.01189900390206674,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-12-19,Bear,Low-Vol,0.6080091881918892,0.011779164785038104,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-12-20,Bull,High-Vol,0.8840071223228024,0.012259660300235196,Volatile Bull,Upward trend with high volatility - Choppy upward movement
+2024-12-23,Bear,High-Vol,0.7913835025475245,0.013960603787005506,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2024-12-24,Bear,Low-Vol,0.8924414135334308,0.011754027841057587,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-12-26,Bear,Low-Vol,0.9167489523656822,0.011798000777863797,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-12-27,Bear,Low-Vol,0.9200915139908799,0.01174001332969743,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-12-30,Bear,Low-Vol,0.9164854579460167,0.011738251449750024,Quiet Bear,Downward trend with low volatility - Steady decline
+2024-12-31,Bear,Low-Vol,0.8929728201670248,0.01174321003158658,Quiet Bear,Downward trend with low volatility - Steady decline
+2025-01-01,Bear,Low-Vol,0.8411744153293936,0.011846539268227523,Quiet Bear,Downward trend with low volatility - Steady decline
+2025-01-02,Bull,Low-Vol,0.5660403049977625,0.011747221161750638,Quiet Bull,Upward trend with low volatility - Ideal for trend following
+2025-01-03,Bear,High-Vol,0.673271293611109,0.013069008837618041,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2025-01-06,Bear,High-Vol,0.8723826781261401,0.012315297923097983,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2025-01-07,Bear,Low-Vol,0.8765023148429569,0.011759361991781155,Quiet Bear,Downward trend with low volatility - Steady decline
+2025-01-08,Bear,Low-Vol,0.8523298905197064,0.011907264442025717,Quiet Bear,Downward trend with low volatility - Steady decline
+2025-01-09,Bear,Low-Vol,0.6399385830180092,0.011833619895439606,Quiet Bear,Downward trend with low volatility - Steady decline
+2025-01-10,Bull,Low-Vol,0.9914904061933583,0.01211040813074993,Quiet Bull,Upward trend with low volatility - Ideal for trend following
+2025-01-13,Bull,High-Vol,0.6509568425708514,0.015005486488401554,Volatile Bull,Upward trend with high volatility - Choppy upward movement
+2025-01-14,Bull,High-Vol,0.7935225402747427,0.012306670606114062,Volatile Bull,Upward trend with high volatility - Choppy upward movement
+2025-01-15,Bear,High-Vol,0.6988323323618978,0.013381837492500446,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2025-01-16,Bear,Low-Vol,0.6871233363756608,0.011916997678687433,Quiet Bear,Downward trend with low volatility - Steady decline
+2025-01-17,Bull,Low-Vol,0.8933238745571159,0.01190481856360027,Quiet Bull,Upward trend with low volatility - Ideal for trend following
+2025-01-20,Bear,High-Vol,0.7182897598863275,0.014014257553667838,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2025-01-21,Bear,Low-Vol,0.6513327055783029,0.011766356190352371,Quiet Bear,Downward trend with low volatility - Steady decline
+2025-01-22,Bull,High-Vol,0.6689309957995057,0.012171405165122402,Volatile Bull,Upward trend with high volatility - Choppy upward movement
+2025-01-23,Bull,High-Vol,0.6493893949463829,0.012969110367316773,Volatile Bull,Upward trend with high volatility - Choppy upward movement
+2025-01-24,Bear,High-Vol,0.5956568277591419,0.012862146805493625,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2025-01-27,Bull,Low-Vol,0.9974668952886931,0.011803372601920405,Quiet Bull,Upward trend with low volatility - Ideal for trend following
+2025-01-28,Bear,High-Vol,0.5291476149463267,0.01563038514810756,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2025-01-29,Bull,Low-Vol,0.8733943696494495,0.01180342799939027,Quiet Bull,Upward trend with low volatility - Ideal for trend following
+2025-01-30,Bear,High-Vol,0.6660673316454554,0.013790912479817879,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2025-01-31,Bear,Low-Vol,0.8279162589258697,0.012089867693963587,Quiet Bear,Downward trend with low volatility - Steady decline
+2025-02-01,Bear,Low-Vol,0.6917271782014541,0.011790357580334664,Quiet Bear,Downward trend with low volatility - Steady decline
+2025-02-03,Bear,High-Vol,0.8533305825141799,0.012566893199228123,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2025-02-04,Bear,Low-Vol,0.8085226357100412,0.011803442935374974,Quiet Bear,Downward trend with low volatility - Steady decline
+2025-02-05,Bear,High-Vol,0.9018899112267024,0.012247859395260257,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2025-02-06,Bear,Low-Vol,0.9103123733520555,0.011744305135301322,Quiet Bear,Downward trend with low volatility - Steady decline
+2025-02-07,Bear,Low-Vol,0.9020743969771858,0.01177758105202723,Quiet Bear,Downward trend with low volatility - Steady decline
+2025-02-10,Bear,Low-Vol,0.8534043953766615,0.011792447792320132,Quiet Bear,Downward trend with low volatility - Steady decline
+2025-02-11,Bear,Low-Vol,0.7241590090132772,0.01193407751072997,Quiet Bear,Downward trend with low volatility - Steady decline
+2025-02-12,Bear,High-Vol,0.8551470102593807,0.012496058418873262,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2025-02-13,Bear,Low-Vol,0.8370805008662081,0.011855969816236617,Quiet Bear,Downward trend with low volatility - Steady decline
+2025-02-14,Bear,High-Vol,0.9031251212472021,0.012139339081924027,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2025-02-17,Bear,Low-Vol,0.9001362345924173,0.011755090388172294,Quiet Bear,Downward trend with low volatility - Steady decline
+2025-02-18,Bear,Low-Vol,0.860411324638015,0.011805004611724328,Quiet Bear,Downward trend with low volatility - Steady decline
+2025-02-19,Bear,Low-Vol,0.7642006576580511,0.01193064803921484,Quiet Bear,Downward trend with low volatility - Steady decline
+2025-02-20,Bear,High-Vol,0.8506898890267793,0.012371214281596946,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2025-02-21,Bear,Low-Vol,0.6516157304215267,0.01173825235818163,Quiet Bear,Downward trend with low volatility - Steady decline
+2025-02-24,Bull,Low-Vol,0.9490324883801087,0.012103216968453035,Quiet Bull,Upward trend with low volatility - Ideal for trend following
+2025-02-25,Bear,High-Vol,0.6225116724845657,0.014336817136728332,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2025-02-27,Bear,Low-Vol,0.6386768716272944,0.01199970798945472,Quiet Bear,Downward trend with low volatility - Steady decline
+2025-02-28,Bull,Low-Vol,0.9997234782808262,0.011912835249254123,Quiet Bull,Upward trend with low volatility - Ideal for trend following
+2025-03-03,Bear,High-Vol,0.591983375838361,0.016593101607400452,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2025-03-04,Bear,Low-Vol,0.5962956767688095,0.012008868564787924,Quiet Bear,Downward trend with low volatility - Steady decline
+2025-03-05,Bull,High-Vol,0.6818338887056709,0.012209794571384798,Volatile Bull,Upward trend with high volatility - Choppy upward movement
+2025-03-06,Bear,High-Vol,0.817277588024087,0.013285760680812008,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2025-03-07,Bear,Low-Vol,0.8592170455703422,0.011738394439540247,Quiet Bear,Downward trend with low volatility - Steady decline
+2025-03-10,Bear,Low-Vol,0.873340327100192,0.011964381581988183,Quiet Bear,Downward trend with low volatility - Steady decline
+2025-03-11,Bear,Low-Vol,0.7555252838550586,0.011811909258793463,Quiet Bear,Downward trend with low volatility - Steady decline
+2025-03-12,Bull,Low-Vol,0.9904180109405196,0.011801742599425034,Quiet Bull,Upward trend with low volatility - Ideal for trend following
+2025-03-13,Bear,High-Vol,0.7371238834696006,0.015213778467856194,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2025-03-17,Bear,Low-Vol,0.8666816877416773,0.011853650566607088,Quiet Bear,Downward trend with low volatility - Steady decline
+2025-03-18,Bear,Low-Vol,0.7718205639491488,0.01173956915347033,Quiet Bear,Downward trend with low volatility - Steady decline
+2025-03-19,Bear,High-Vol,0.8175263510664689,0.012313523699182625,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2025-03-20,Bear,Low-Vol,0.855194015271135,0.012092462954419373,Quiet Bear,Downward trend with low volatility - Steady decline
+2025-03-21,Bear,Low-Vol,0.8764192895996535,0.011983646982969432,Quiet Bear,Downward trend with low volatility - Steady decline
+2025-03-24,Bear,Low-Vol,0.7590477732315614,0.011791234795551124,Quiet Bear,Downward trend with low volatility - Steady decline
+2025-03-25,Bear,High-Vol,0.8278662291098207,0.012375177926562887,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2025-03-26,Bear,Low-Vol,0.8278141467091215,0.012003868218178046,Quiet Bear,Downward trend with low volatility - Steady decline
+2025-03-27,Bear,Low-Vol,0.7355057039545293,0.011986707674213287,Quiet Bear,Downward trend with low volatility - Steady decline
+2025-03-28,Bull,Low-Vol,0.7736906934916261,0.01194247223006346,Quiet Bull,Upward trend with low volatility - Ideal for trend following
+2025-04-01,Bull,High-Vol,0.864875611721339,0.013157911665857063,Volatile Bull,Upward trend with high volatility - Choppy upward movement
+2025-04-02,Bull,High-Vol,0.5167840683188477,0.01343412636346443,Volatile Bull,Upward trend with high volatility - Choppy upward movement
+2025-04-03,Bull,Low-Vol,0.9999879436749844,0.011912571202994455,Quiet Bull,Upward trend with low volatility - Ideal for trend following
+2025-04-04,Bull,High-Vol,0.999221736011583,0.017357420514663886,Volatile Bull,Upward trend with high volatility - Choppy upward movement
+2025-04-07,Bull,High-Vol,0.9550579463450111,0.015352870093829553,Volatile Bull,Upward trend with high volatility - Choppy upward movement
+2025-04-08,Bull,High-Vol,0.6532861557143158,0.013733910117630796,Volatile Bull,Upward trend with high volatility - Choppy upward movement
+2025-04-09,Bull,High-Vol,0.8797403003697118,0.012263187106042099,Volatile Bull,Upward trend with high volatility - Choppy upward movement
+2025-04-11,Bear,High-Vol,0.5843782415181586,0.013665484585897227,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2025-04-15,Bear,Low-Vol,0.620338866320332,0.01212246893056724,Quiet Bear,Downward trend with low volatility - Steady decline
+2025-04-16,Bear,High-Vol,0.8553269329001606,0.01255526195753504,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2025-04-17,Bear,Low-Vol,0.820458813007574,0.011744774624712143,Quiet Bear,Downward trend with low volatility - Steady decline
+2025-04-21,Bull,Low-Vol,0.5509827794432122,0.011808441700579084,Quiet Bull,Upward trend with low volatility - Ideal for trend following
+2025-04-22,Bear,High-Vol,0.5974354019135124,0.012965379976039679,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2025-04-23,Bull,Low-Vol,0.9999469496238722,0.011877741047614217,Quiet Bull,Upward trend with low volatility - Ideal for trend following
+2025-04-24,Bear,High-Vol,0.7680489724449475,0.01727569597463221,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2025-04-25,Bear,Low-Vol,0.8847240993885863,0.011766516523460382,Quiet Bear,Downward trend with low volatility - Steady decline
+2025-04-28,Bear,Low-Vol,0.8997219896440838,0.011800455012500348,Quiet Bear,Downward trend with low volatility - Steady decline
+2025-04-29,Bear,Low-Vol,0.819367619493312,0.011741412397171554,Quiet Bear,Downward trend with low volatility - Steady decline
+2025-04-30,Bear,High-Vol,0.8607873728341038,0.012210271662713995,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2025-05-02,Bear,Low-Vol,0.8959399432997561,0.011982888563962126,Quiet Bear,Downward trend with low volatility - Steady decline
+2025-05-05,Bear,Low-Vol,0.9039769948852743,0.011831472520601656,Quiet Bear,Downward trend with low volatility - Steady decline
+2025-05-06,Bear,Low-Vol,0.9021194284323543,0.011815357501461126,Quiet Bear,Downward trend with low volatility - Steady decline
+2025-05-07,Bear,Low-Vol,0.9087971098961767,0.011847870074189207,Quiet Bear,Downward trend with low volatility - Steady decline
+2025-05-08,Bear,Low-Vol,0.8924346746415138,0.01177763168538684,Quiet Bear,Downward trend with low volatility - Steady decline
+2025-05-09,Bear,Low-Vol,0.7767185661949616,0.011773807297058594,Quiet Bear,Downward trend with low volatility - Steady decline
+2025-05-12,Bull,Low-Vol,0.999999999953904,0.011743749585353408,Quiet Bull,Upward trend with low volatility - Ideal for trend following
+2025-05-13,Bull,High-Vol,0.9073487550341115,0.021759954186392965,Volatile Bull,Upward trend with high volatility - Choppy upward movement
+2025-05-14,Bear,High-Vol,0.5316158917403969,0.01346581442217931,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2025-05-15,Bear,High-Vol,0.7774133930714627,0.012360707385086551,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2025-05-16,Bear,Low-Vol,0.8307528579081794,0.01201421434581319,Quiet Bear,Downward trend with low volatility - Steady decline
+2025-05-19,Bear,Low-Vol,0.7518350425817856,0.011939110179083525,Quiet Bear,Downward trend with low volatility - Steady decline
+2025-05-20,Bear,High-Vol,0.8874204361689211,0.012418612235017796,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2025-05-21,Bear,Low-Vol,0.8992243970969872,0.011769643037689294,Quiet Bear,Downward trend with low volatility - Steady decline
+2025-05-22,Bear,Low-Vol,0.8455627286652718,0.011774752583099285,Quiet Bear,Downward trend with low volatility - Steady decline
+2025-05-23,Bear,Low-Vol,0.8684856571226851,0.012110679232637754,Quiet Bear,Downward trend with low volatility - Steady decline
+2025-05-26,Bear,Low-Vol,0.8358819280711354,0.011901707984776317,Quiet Bear,Downward trend with low volatility - Steady decline
+2025-05-27,Bear,Low-Vol,0.871139706303923,0.012119498400634799,Quiet Bear,Downward trend with low volatility - Steady decline
+2025-05-28,Bear,Low-Vol,0.9010365698574179,0.011951120722351565,Quiet Bear,Downward trend with low volatility - Steady decline
+2025-05-29,Bear,Low-Vol,0.8486717454557983,0.011748772505405845,Quiet Bear,Downward trend with low volatility - Steady decline
+2025-05-30,Bear,Low-Vol,0.7410082456397512,0.011967399794405914,Quiet Bear,Downward trend with low volatility - Steady decline
+2025-06-02,Bear,High-Vol,0.8589598445613561,0.01244340256319588,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2025-06-03,Bear,Low-Vol,0.8937305123390358,0.011912860753297828,Quiet Bear,Downward trend with low volatility - Steady decline
+2025-06-04,Bear,Low-Vol,0.9119470084747483,0.011855762619047168,Quiet Bear,Downward trend with low volatility - Steady decline
+2025-06-05,Bear,Low-Vol,0.9041100548229507,0.011758596402867003,Quiet Bear,Downward trend with low volatility - Steady decline
+2025-06-06,Bear,Low-Vol,0.8819519248375259,0.01180996515332932,Quiet Bear,Downward trend with low volatility - Steady decline
+2025-06-09,Bear,Low-Vol,0.8141750966694172,0.01186774263820068,Quiet Bear,Downward trend with low volatility - Steady decline
+2025-06-10,Bear,Low-Vol,0.604320818915805,0.011980473619725434,Quiet Bear,Downward trend with low volatility - Steady decline
+2025-06-11,Bear,High-Vol,0.7238651789592127,0.012676006004334906,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2025-06-12,Bear,High-Vol,0.8114431152208222,0.012236644731564474,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2025-06-13,Bear,Low-Vol,0.8730080510056277,0.012090939925959228,Quiet Bear,Downward trend with low volatility - Steady decline
+2025-06-16,Bear,Low-Vol,0.7507395514449716,0.011756931041087352,Quiet Bear,Downward trend with low volatility - Steady decline
+2025-06-17,Bear,High-Vol,0.8577803537613413,0.012426252396092881,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2025-06-18,Bear,Low-Vol,0.8578147961312597,0.011885990180801172,Quiet Bear,Downward trend with low volatility - Steady decline
+2025-06-19,Bear,Low-Vol,0.7938156251748734,0.011931379440360428,Quiet Bear,Downward trend with low volatility - Steady decline
+2025-06-20,Bear,High-Vol,0.8335344153166311,0.012247642796148137,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2025-06-23,Bear,Low-Vol,0.7533643457775869,0.011939839645744705,Quiet Bear,Downward trend with low volatility - Steady decline
+2025-06-24,Bear,High-Vol,0.858250666065796,0.012389353009921335,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2025-06-25,Bear,Low-Vol,0.7074203566282062,0.011739109294782463,Quiet Bear,Downward trend with low volatility - Steady decline
+2025-06-26,Bear,High-Vol,0.8872902989770255,0.012569448747617187,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2025-06-27,Bear,Low-Vol,0.9145849979420441,0.011745798384800965,Quiet Bear,Downward trend with low volatility - Steady decline
+2025-06-30,Bear,Low-Vol,0.9183850158808612,0.011749357765264564,Quiet Bear,Downward trend with low volatility - Steady decline
+2025-07-01,Bear,Low-Vol,0.9107107216659971,0.011742044305132949,Quiet Bear,Downward trend with low volatility - Steady decline
+2025-07-02,Bear,Low-Vol,0.9177698911928596,0.011814984364992316,Quiet Bear,Downward trend with low volatility - Steady decline
+2025-07-03,Bear,Low-Vol,0.9140909621077913,0.011746191645466612,Quiet Bear,Downward trend with low volatility - Steady decline
+2025-07-04,Bear,Low-Vol,0.8811142539444881,0.011745146020172553,Quiet Bear,Downward trend with low volatility - Steady decline
+2025-07-07,Bear,Low-Vol,0.8787142058037485,0.011951894679478764,Quiet Bear,Downward trend with low volatility - Steady decline
+2025-07-08,Bear,Low-Vol,0.9036969091969451,0.011960630650047703,Quiet Bear,Downward trend with low volatility - Steady decline
+2025-07-09,Bear,Low-Vol,0.8616510476154876,0.011752257012604723,Quiet Bear,Downward trend with low volatility - Steady decline
+2025-07-10,Bear,Low-Vol,0.7865252610802729,0.01195401558282117,Quiet Bear,Downward trend with low volatility - Steady decline
+2025-07-11,Bull,Low-Vol,0.6520584306658126,0.011882278201887014,Quiet Bull,Upward trend with low volatility - Ideal for trend following
+2025-07-14,Bear,High-Vol,0.7087837402827923,0.01327611469748191,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2025-07-15,Bear,High-Vol,0.8639441678006374,0.012142538645413883,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2025-07-16,Bear,Low-Vol,0.8581092599086106,0.011815475860852626,Quiet Bear,Downward trend with low volatility - Steady decline
+2025-07-17,Bear,Low-Vol,0.6877756005679195,0.011832939850311563,Quiet Bear,Downward trend with low volatility - Steady decline
+2025-07-18,Bear,High-Vol,0.882284915794671,0.012627928084558135,Panic Selloff,Downward trend with high volatility - Market stress/crisis
+2025-07-21,Bear,Low-Vol,0.9066200036127913,0.011748043052559956,Quiet Bear,Downward trend with low volatility - Steady decline
+2025-07-22,Bear,Low-Vol,0.8988190505281609,0.011779538507561447,Quiet Bear,Downward trend with low volatility - Steady decline
+2025-07-23,Bear,Low-Vol,0.8424678314150049,0.011798220688784444,Quiet Bear,Downward trend with low volatility - Steady decline
+2025-07-24,Bull,Low-Vol,0.5302077132837736,0.011773489936824448,Quiet Bull,Upward trend with low volatility - Ideal for trend following
+2025-07-25,Bear,High-Vol,0.5942560873538799,0.012936802753117024,Panic Selloff,Downward trend with high volatility - Market stress/crisis

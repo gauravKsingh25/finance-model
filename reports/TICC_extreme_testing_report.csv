@@ -1,0 +1,7 @@
+Test,Status,Note,Transitions
+Few samples (30),PASSED,Works,
+Many assets (20),PASSED,Scalable,
+High correlation,PASSED,Handles multicollinearity,
+Constant data,QUESTIONABLE,Should fail,
+Rapid switching,PASSED,,14.0
+Extreme outliers,PASSED,Robust,

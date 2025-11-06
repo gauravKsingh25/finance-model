@@ -1,0 +1,7 @@
+Test,Status,Changes_detected,Transitions
+Short series (20),PASSED,,
+Constant data,QUESTIONABLE,,
+Extreme volatility,PASSED,,
+Step function,PASSED,6.0,
+Missing data,PASSED,,
+Rapid switching,PASSED,,78.0

@@ -1,0 +1,5 @@
+Test,Status,N_samples,Regimes_found,Dominant_regime,Regime_changes,Error
+Synthetic trending,PASSED,300.0,2.0,Trending,,
+Synthetic mean-reverting,PASSED,300.0,2.0,,,
+Synthetic switching,PASSED,300.0,,,27.0,
+Real NIFTY 50,UNTESTED,,,,,"too many indices for array: array is 1-dimensional, but 2 were indexed"

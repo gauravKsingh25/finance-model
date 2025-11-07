@@ -50,10 +50,9 @@ def test_bcd_synthetic():
     print(f"\nGenerated {len(data)} observations with {len(true_changepoints)} changepoints")
     print(f"True changepoints at: {true_changepoints}")
     
-    # Fit BCD model with appropriate hazard rate
-    # For data with ~3 changepoints in 1000 observations, hazard rate should be ~1/250
+    # Fit BCD model with appropriate parameters
     print("\nFitting Bayesian Changepoint Detection...")
-    model = BayesianChangepoint(hazard_rate=1/250)  # Expect changepoint every 250 steps
+    model = BayesianChangepoint(window_size=50, threshold=1.5)  # Moderately sensitive
     model.fit(data)
     
     # Get statistics
@@ -241,10 +240,9 @@ def test_bcd_real_data():
             returns = returns.tail(500)
             print(f"Using last {len(returns)} observations")
             
-            # Fit BCD with appropriate hazard rate for financial data
-            # Financial markets can have regime changes every ~50-100 days
+            # Fit BCD with appropriate parameters for financial data
             print("\nFitting Bayesian Changepoint Detection...")
-            model = BayesianChangepoint(hazard_rate=1/100)  # Expect changepoint every 100 days
+            model = BayesianChangepoint(window_size=30, threshold=1.8)  # Sensitive to market changes
             model.fit(returns)
             
             # Get statistics

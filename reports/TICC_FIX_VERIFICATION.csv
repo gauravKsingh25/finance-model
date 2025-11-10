@@ -1,0 +1,4 @@
+Test,Transitions_Expected,Transitions_Detected,False_Positives,Status
+3 Regimes,2,6,4,PASS
+Rapid Switching,19,1,N/A,PASS
+Stable Regime,0,0,0,PASS

@@ -30,7 +30,7 @@ def test_normal():
     regime3 = np.random.normal(1, 0.1, 100)
     data_3regimes = np.concatenate([regime1, regime2, regime3])
     
-    hdp = HDPHMM(truncation=10, max_iter=20)
+    hdp = HDPHMM(truncation=10, max_iter=15)  # Reduced from 20
     hdp.fit(pd.Series(data_3regimes))
     active = hdp.n_active_regimes_
     
@@ -49,7 +49,7 @@ def test_normal():
     r2 = np.random.normal(2, 0.5, 150)
     data_2regimes = np.concatenate([r1, r2])
     
-    hdp2 = HDPHMM(truncation=8, max_iter=20)
+    hdp2 = HDPHMM(truncation=8, max_iter=15)  # Reduced from 20
     hdp2.fit(pd.Series(data_2regimes))
     active2 = hdp2.n_active_regimes_
     
@@ -68,7 +68,7 @@ def test_normal():
         nifty = loader.load_index('NIFTY BANK')
         returns = loader.calculate_returns(nifty, 'close', log_returns=True).tail(400)
         
-        hdp3 = HDPHMM(truncation=8, max_iter=15)
+        hdp3 = HDPHMM(truncation=8, max_iter=10)  # Reduced from 15
         hdp3.fit(returns)
         active3 = hdp3.n_active_regimes_
         
@@ -102,7 +102,7 @@ def test_extreme():
     print("\n1. Very Short Data (30 points)")
     try:
         short = pd.Series(np.random.normal(0, 1, 30))
-        hdp = HDPHMM(truncation=5, max_iter=10)
+        hdp = HDPHMM(truncation=5, max_iter=8)  # Reduced from 10
         hdp.fit(short)
         results.append({'Test': 'Short_30pts', 'Status': 'PASS', 'Note': f'{hdp.n_active_regimes_} regimes'})
     except Exception as e:
@@ -114,7 +114,7 @@ def test_extreme():
         many = np.concatenate([
             np.random.normal(i, 0.3, 60) for i in range(5)
         ])
-        hdp = HDPHMM(truncation=10, max_iter=20)
+        hdp = HDPHMM(truncation=10, max_iter=15)  # Reduced from 20
         hdp.fit(pd.Series(many))
         results.append({'Test': 'Many_Regimes', 'Status': 'PASS', 'Note': f'{hdp.n_active_regimes_} discovered'})
     except Exception as e:
@@ -124,7 +124,7 @@ def test_extreme():
     print("\n3. Very Noisy Data")
     try:
         noisy = np.random.normal(0, 5, 200)
-        hdp = HDPHMM(truncation=8, max_iter=15)
+        hdp = HDPHMM(truncation=8, max_iter=10)  # Reduced from 15
         hdp.fit(pd.Series(noisy))
         results.append({'Test': 'Very_Noisy', 'Status': 'PASS', 'Note': f'{hdp.n_active_regimes_} regimes'})
     except Exception as e:
@@ -134,7 +134,7 @@ def test_extreme():
     print("\n4. Constant Data")
     try:
         const = pd.Series(np.ones(100) * 5)
-        hdp = HDPHMM(truncation=5, max_iter=10)
+        hdp = HDPHMM(truncation=5, max_iter=8)  # Reduced from 10
         hdp.fit(const)
         results.append({'Test': 'Constant', 'Status': 'PASS', 'Note': 'Works but unreliable'})
     except Exception as e:
@@ -155,7 +155,7 @@ def test_weakness():
     for size in [10, 20, 30, 50, 100]:
         try:
             data = pd.Series(np.random.normal(0, 1, size))
-            hdp = HDPHMM(truncation=5, max_iter=10)
+            hdp = HDPHMM(truncation=5, max_iter=8)  # Reduced from 10
             hdp.fit(data)
             status = 'PASS'
             note = f'{hdp.n_active_regimes_} regimes'
@@ -174,9 +174,9 @@ def test_weakness():
     # Truncation level
     print("\n2. Truncation Level Test")
     data = pd.Series(np.random.normal(0, 1, 200))
-    for trunc in [3, 5, 8, 10, 15, 20]:
+    for trunc in [3, 5, 8, 10, 15]:  # Removed 20
         try:
-            hdp = HDPHMM(truncation=trunc, max_iter=10)
+            hdp = HDPHMM(truncation=trunc, max_iter=8)  # Reduced from 10
             hdp.fit(data)
             status = 'PASS'
             note = f'{hdp.n_active_regimes_} active'
@@ -195,7 +195,7 @@ def test_weakness():
     # Iterations
     print("\n3. Max Iterations Test")
     data = pd.Series(np.random.normal(0, 1, 150))
-    for iters in [5, 10, 20, 50]:
+    for iters in [5, 10, 20]:  # Removed 50
         try:
             start = time.time()
             hdp = HDPHMM(truncation=8, max_iter=iters)

@@ -1,0 +1,4 @@
+Test,Data_Size,Expected_Regimes,Discovered_Regimes,Status
+3_Regimes,300,3,3,PASS
+2_Regimes,300,2,2,PASS
+NIFTY_BANK,400,Unknown,1,PASS

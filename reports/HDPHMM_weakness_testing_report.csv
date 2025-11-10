@@ -1,0 +1,14 @@
+Test,Parameter,Status,Note
+Min_Size,10,PASS,1 regimes
+Min_Size,20,PASS,1 regimes
+Min_Size,30,PASS,3 regimes
+Min_Size,50,PASS,1 regimes
+Min_Size,100,PASS,1 regimes
+Truncation,3,PASS,1 active
+Truncation,5,PASS,2 active
+Truncation,8,PASS,1 active
+Truncation,10,PASS,1 active
+Truncation,15,PASS,3 active
+Max_Iter,5,PASS,0.42s
+Max_Iter,10,PASS,0.78s
+Max_Iter,20,PASS,1.69s

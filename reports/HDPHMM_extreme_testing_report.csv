@@ -1,0 +1,5 @@
+Test,Status,Note
+Short_30pts,PASS,2 regimes
+Many_Regimes,PASS,4 discovered
+Very_Noisy,PASS,1 regimes
+Constant,PASS,Works but unreliable

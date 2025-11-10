@@ -6,8 +6,11 @@ from .bayesian_changepoint import BayesianChangepoint
 from .hawkes_process import HawkesProcess
 from .chaos_metrics import HurstExponent, EntropyMetrics, ChaosMetrics
 from .ticc_clustering import TICCClustering
-from .switching_kalman_filter import SwitchingKalmanFilter
+from .switching_kalman_filter_fixed import SwitchingKalmanFilterFixed
 from .hdp_hmm import HDPHMM
+
+# Keep old name for compatibility, but use fixed version
+SwitchingKalmanFilter = SwitchingKalmanFilterFixed
 
 __all__ = [
     'MarkovRegimeSwitching',
@@ -21,5 +24,6 @@ __all__ = [
     'ChaosMetrics',
     'TICCClustering',
     'SwitchingKalmanFilter',
+    'SwitchingKalmanFilterFixed',
     'HDPHMM'
 ]

@@ -14,20 +14,9 @@ import numpy as np
 import pandas as pd
 from typing import Tuple, Dict, List, Optional
 from scipy.optimize import minimize, differential_evolution
+from numba import jit
 import warnings
 warnings.filterwarnings('ignore')
-
-# Try to import numba for performance, but make it optional
-try:
-    from numba import jit
-    HAS_NUMBA = True
-except ImportError:
-    HAS_NUMBA = False
-    # Create dummy decorator
-    def jit(*args, **kwargs):
-        def decorator(func):
-            return func
-        return decorator
 
 
 @jit(nopython=True)
@@ -352,8 +341,8 @@ class HawkesProcess:
     
     def _calculate_intensities(self):
         """Calculate intensity at each event time using optimized algorithm"""
-        # Use fast numba-compiled version if available and beneficial
-        if HAS_NUMBA and len(self.event_times) > 100:
+        if len(self.event_times) < 10000:
+            # Use fast numba-compiled version for larger datasets
             try:
                 self.intensities = _fast_intensity_calculation(
                     self.event_times, self.mu, self.alpha, self.beta
@@ -362,7 +351,7 @@ class HawkesProcess:
             except:
                 pass
         
-        # Fallback to standard vectorized calculation
+        # Fallback to standard calculation
         n = len(self.event_times)
         self.intensities = np.zeros(n)
         

@@ -8,6 +8,7 @@ from .chaos_metrics import HurstExponent, EntropyMetrics, ChaosMetrics
 from .ticc_clustering import TICCClustering
 from .switching_kalman_filter_fixed import SwitchingKalmanFilterFixed
 from .hdp_hmm import HDPHMM
+from .standard_hmm import StandardHMM
 
 # Keep old name for compatibility, but use fixed version
 SwitchingKalmanFilter = SwitchingKalmanFilterFixed
@@ -25,5 +26,6 @@ __all__ = [
     'TICCClustering',
     'SwitchingKalmanFilter',
     'SwitchingKalmanFilterFixed',
-    'HDPHMM'
+    'HDPHMM',
+    'StandardHMM'
 ]

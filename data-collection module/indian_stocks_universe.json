@@ -1,0 +1,1682 @@
+[
+  {
+    "symbol": "360ONE",
+    "name": "360 ONE WAM LIMITED",
+    "exchange": "NSE",
+    "yahoo": "360ONE.NS",
+    "nse": "360ONE",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "ABB",
+    "name": "ABB India Limited",
+    "exchange": "NSE",
+    "yahoo": "ABB.NS",
+    "nse": "ABB",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "ABCAPITAL",
+    "name": "Aditya Birla Capital Limited",
+    "exchange": "NSE",
+    "yahoo": "ABCAPITAL.NS",
+    "nse": "ABCAPITAL",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "ADANIENSOL",
+    "name": "Adani Energy Solutions Limited",
+    "exchange": "NSE",
+    "yahoo": "ADANIENSOL.NS",
+    "nse": "ADANIENSOL",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "ADANIENT",
+    "name": "Adani Enterprises Limited",
+    "exchange": "NSE",
+    "yahoo": "ADANIENT.NS",
+    "nse": "ADANIENT",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "ADANIGREEN",
+    "name": "Adani Green Energy Limited",
+    "exchange": "NSE",
+    "yahoo": "ADANIGREEN.NS",
+    "nse": "ADANIGREEN",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "ADANIPORTS",
+    "name": "Adani Ports and Special Economic Zone Limited",
+    "exchange": "NSE",
+    "yahoo": "ADANIPORTS.NS",
+    "nse": "ADANIPORTS",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "ALKEM",
+    "name": "Alkem Laboratories Limited",
+    "exchange": "NSE",
+    "yahoo": "ALKEM.NS",
+    "nse": "ALKEM",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "AMBER",
+    "name": "Amber Enterprises India Limited",
+    "exchange": "NSE",
+    "yahoo": "AMBER.NS",
+    "nse": "AMBER",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "AMBUJACEM",
+    "name": "Ambuja Cements Limited",
+    "exchange": "NSE",
+    "yahoo": "AMBUJACEM.NS",
+    "nse": "AMBUJACEM",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "ANGELONE",
+    "name": "Angel One Limited",
+    "exchange": "NSE",
+    "yahoo": "ANGELONE.NS",
+    "nse": "ANGELONE",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "APLAPOLLO",
+    "name": "APL Apollo Tubes Limited",
+    "exchange": "NSE",
+    "yahoo": "APLAPOLLO.NS",
+    "nse": "APLAPOLLO",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "APOLLOHOSP",
+    "name": "Apollo Hospitals Enterprise Limited",
+    "exchange": "NSE",
+    "yahoo": "APOLLOHOSP.NS",
+    "nse": "APOLLOHOSP",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "ASHOKLEY",
+    "name": "Ashok Leyland Limited",
+    "exchange": "NSE",
+    "yahoo": "ASHOKLEY.NS",
+    "nse": "ASHOKLEY",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "ASIANPAINT",
+    "name": "Asian Paints Limited",
+    "exchange": "NSE",
+    "yahoo": "ASIANPAINT.NS",
+    "nse": "ASIANPAINT",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "ASTRAL",
+    "name": "Astral Limited",
+    "exchange": "NSE",
+    "yahoo": "ASTRAL.NS",
+    "nse": "ASTRAL",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "AUBANK",
+    "name": "AU Small Finance Bank Limited",
+    "exchange": "NSE",
+    "yahoo": "AUBANK.NS",
+    "nse": "AUBANK",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "AUROPHARMA",
+    "name": "Aurobindo Pharma Limited",
+    "exchange": "NSE",
+    "yahoo": "AUROPHARMA.NS",
+    "nse": "AUROPHARMA",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "AXISBANK",
+    "name": "Axis Bank Limited",
+    "exchange": "NSE",
+    "yahoo": "AXISBANK.NS",
+    "nse": "AXISBANK",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "BAJAJ-AUTO",
+    "name": "Bajaj Auto Limited",
+    "exchange": "NSE",
+    "yahoo": "BAJAJ-AUTO.NS",
+    "nse": "BAJAJ-AUTO",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "BAJAJFINSV",
+    "name": "Bajaj Finserv Limited",
+    "exchange": "NSE",
+    "yahoo": "BAJAJFINSV.NS",
+    "nse": "BAJAJFINSV",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "BAJFINANCE",
+    "name": "Bajaj Finance Limited",
+    "exchange": "NSE",
+    "yahoo": "BAJFINANCE.NS",
+    "nse": "BAJFINANCE",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "BANDHANBNK",
+    "name": "Bandhan Bank Limited",
+    "exchange": "NSE",
+    "yahoo": "BANDHANBNK.NS",
+    "nse": "BANDHANBNK",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "BANKBARODA",
+    "name": "Bank of Baroda",
+    "exchange": "NSE",
+    "yahoo": "BANKBARODA.NS",
+    "nse": "BANKBARODA",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "BANKINDIA",
+    "name": "Bank of India",
+    "exchange": "NSE",
+    "yahoo": "BANKINDIA.NS",
+    "nse": "BANKINDIA",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "BDL",
+    "name": "Bharat Dynamics Limited",
+    "exchange": "NSE",
+    "yahoo": "BDL.NS",
+    "nse": "BDL",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "BEL",
+    "name": "Bharat Electronics Limited",
+    "exchange": "NSE",
+    "yahoo": "BEL.NS",
+    "nse": "BEL",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "BHARATFORG",
+    "name": "Bharat Forge Limited",
+    "exchange": "NSE",
+    "yahoo": "BHARATFORG.NS",
+    "nse": "BHARATFORG",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "BHARTIARTL",
+    "name": "Bharti Airtel Limited",
+    "exchange": "NSE",
+    "yahoo": "BHARTIARTL.NS",
+    "nse": "BHARTIARTL",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "BHEL",
+    "name": "Bharat Heavy Electricals Limited",
+    "exchange": "NSE",
+    "yahoo": "BHEL.NS",
+    "nse": "BHEL",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "BIOCON",
+    "name": "Biocon Limited",
+    "exchange": "NSE",
+    "yahoo": "BIOCON.NS",
+    "nse": "BIOCON",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "BLUESTARCO",
+    "name": "Blue Star Limited",
+    "exchange": "NSE",
+    "yahoo": "BLUESTARCO.NS",
+    "nse": "BLUESTARCO",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "BOSCHLTD",
+    "name": "Bosch Limited",
+    "exchange": "NSE",
+    "yahoo": "BOSCHLTD.NS",
+    "nse": "BOSCHLTD",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "BPCL",
+    "name": "Bharat Petroleum Corporation Limited",
+    "exchange": "NSE",
+    "yahoo": "BPCL.NS",
+    "nse": "BPCL",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "BRITANNIA",
+    "name": "Britannia Industries Limited",
+    "exchange": "NSE",
+    "yahoo": "BRITANNIA.NS",
+    "nse": "BRITANNIA",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "BSE",
+    "name": "BSE Limited",
+    "exchange": "NSE",
+    "yahoo": "BSE.NS",
+    "nse": "BSE",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "CAMS",
+    "name": "Computer Age Management Services Limited",
+    "exchange": "NSE",
+    "yahoo": "CAMS.NS",
+    "nse": "CAMS",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "CANBK",
+    "name": "Canara Bank",
+    "exchange": "NSE",
+    "yahoo": "CANBK.NS",
+    "nse": "CANBK",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "CDSL",
+    "name": "Central Depository Services (India) Limited",
+    "exchange": "NSE",
+    "yahoo": "CDSL.NS",
+    "nse": "CDSL",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "CGPOWER",
+    "name": "CG Power and Industrial Solutions Limited",
+    "exchange": "NSE",
+    "yahoo": "CGPOWER.NS",
+    "nse": "CGPOWER",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "CHOLAFIN",
+    "name": "Cholamandalam Investment and Finance Company Limited",
+    "exchange": "NSE",
+    "yahoo": "CHOLAFIN.NS",
+    "nse": "CHOLAFIN",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "CIPLA",
+    "name": "Cipla Limited",
+    "exchange": "NSE",
+    "yahoo": "CIPLA.NS",
+    "nse": "CIPLA",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "COALINDIA",
+    "name": "Coal India Limited",
+    "exchange": "NSE",
+    "yahoo": "COALINDIA.NS",
+    "nse": "COALINDIA",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "COFORGE",
+    "name": "Coforge Limited",
+    "exchange": "NSE",
+    "yahoo": "COFORGE.NS",
+    "nse": "COFORGE",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "COLPAL",
+    "name": "Colgate Palmolive (India) Limited",
+    "exchange": "NSE",
+    "yahoo": "COLPAL.NS",
+    "nse": "COLPAL",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "CONCOR",
+    "name": "Container Corporation of India Limited",
+    "exchange": "NSE",
+    "yahoo": "CONCOR.NS",
+    "nse": "CONCOR",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "CROMPTON",
+    "name": "Crompton Greaves Consumer Electricals Limited",
+    "exchange": "NSE",
+    "yahoo": "CROMPTON.NS",
+    "nse": "CROMPTON",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "CUMMINSIND",
+    "name": "Cummins India Limited",
+    "exchange": "NSE",
+    "yahoo": "CUMMINSIND.NS",
+    "nse": "CUMMINSIND",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "CYIENT",
+    "name": "Cyient Limited",
+    "exchange": "NSE",
+    "yahoo": "CYIENT.NS",
+    "nse": "CYIENT",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "DABUR",
+    "name": "Dabur India Limited",
+    "exchange": "NSE",
+    "yahoo": "DABUR.NS",
+    "nse": "DABUR",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "DALBHARAT",
+    "name": "Dalmia Bharat Limited",
+    "exchange": "NSE",
+    "yahoo": "DALBHARAT.NS",
+    "nse": "DALBHARAT",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "DELHIVERY",
+    "name": "Delhivery Limited",
+    "exchange": "NSE",
+    "yahoo": "DELHIVERY.NS",
+    "nse": "DELHIVERY",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "DIVISLAB",
+    "name": "Divi's Laboratories Limited",
+    "exchange": "NSE",
+    "yahoo": "DIVISLAB.NS",
+    "nse": "DIVISLAB",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "DIXON",
+    "name": "Dixon Technologies (India) Limited",
+    "exchange": "NSE",
+    "yahoo": "DIXON.NS",
+    "nse": "DIXON",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "DLF",
+    "name": "DLF Limited",
+    "exchange": "NSE",
+    "yahoo": "DLF.NS",
+    "nse": "DLF",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "DMART",
+    "name": "Avenue Supermarts Limited",
+    "exchange": "NSE",
+    "yahoo": "DMART.NS",
+    "nse": "DMART",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "DRREDDY",
+    "name": "Dr. Reddy's Laboratories Limited",
+    "exchange": "NSE",
+    "yahoo": "DRREDDY.NS",
+    "nse": "DRREDDY",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "EICHERMOT",
+    "name": "Eicher Motors Limited",
+    "exchange": "NSE",
+    "yahoo": "EICHERMOT.NS",
+    "nse": "EICHERMOT",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "ETERNAL",
+    "name": "ETERNAL LIMITED",
+    "exchange": "NSE",
+    "yahoo": "ETERNAL.NS",
+    "nse": "ETERNAL",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "EXIDEIND",
+    "name": "Exide Industries Limited",
+    "exchange": "NSE",
+    "yahoo": "EXIDEIND.NS",
+    "nse": "EXIDEIND",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "FEDERALBNK",
+    "name": "The Federal Bank  Limited",
+    "exchange": "NSE",
+    "yahoo": "FEDERALBNK.NS",
+    "nse": "FEDERALBNK",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "FORTIS",
+    "name": "Fortis Healthcare Limited",
+    "exchange": "NSE",
+    "yahoo": "FORTIS.NS",
+    "nse": "FORTIS",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "GAIL",
+    "name": "GAIL (India) Limited",
+    "exchange": "NSE",
+    "yahoo": "GAIL.NS",
+    "nse": "GAIL",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "GLENMARK",
+    "name": "Glenmark Pharmaceuticals Limited",
+    "exchange": "NSE",
+    "yahoo": "GLENMARK.NS",
+    "nse": "GLENMARK",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "GMRAIRPORT",
+    "name": "GMR AIRPORTS LIMITED",
+    "exchange": "NSE",
+    "yahoo": "GMRAIRPORT.NS",
+    "nse": "GMRAIRPORT",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "GODREJCP",
+    "name": "Godrej Consumer Products Limited",
+    "exchange": "NSE",
+    "yahoo": "GODREJCP.NS",
+    "nse": "GODREJCP",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "GODREJPROP",
+    "name": "Godrej Properties Limited",
+    "exchange": "NSE",
+    "yahoo": "GODREJPROP.NS",
+    "nse": "GODREJPROP",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "GRASIM",
+    "name": "Grasim Industries Limited",
+    "exchange": "NSE",
+    "yahoo": "GRASIM.NS",
+    "nse": "GRASIM",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "HAL",
+    "name": "Hindustan Aeronautics Limited",
+    "exchange": "NSE",
+    "yahoo": "HAL.NS",
+    "nse": "HAL",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "HAVELLS",
+    "name": "Havells India Limited",
+    "exchange": "NSE",
+    "yahoo": "HAVELLS.NS",
+    "nse": "HAVELLS",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "HCLTECH",
+    "name": "HCL Technologies Limited",
+    "exchange": "NSE",
+    "yahoo": "HCLTECH.NS",
+    "nse": "HCLTECH",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "HDFCAMC",
+    "name": "HDFC Asset Management Company Limited",
+    "exchange": "NSE",
+    "yahoo": "HDFCAMC.NS",
+    "nse": "HDFCAMC",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "HDFCBANK",
+    "name": "HDFC Bank Limited",
+    "exchange": "NSE",
+    "yahoo": "HDFCBANK.NS",
+    "nse": "HDFCBANK",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "HDFCLIFE",
+    "name": "HDFC Life Insurance Company Limited",
+    "exchange": "NSE",
+    "yahoo": "HDFCLIFE.NS",
+    "nse": "HDFCLIFE",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "HEROMOTOCO",
+    "name": "Hero MotoCorp Limited",
+    "exchange": "NSE",
+    "yahoo": "HEROMOTOCO.NS",
+    "nse": "HEROMOTOCO",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "HFCL",
+    "name": "HFCL Limited",
+    "exchange": "NSE",
+    "yahoo": "HFCL.NS",
+    "nse": "HFCL",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "HINDALCO",
+    "name": "Hindalco Industries Limited",
+    "exchange": "NSE",
+    "yahoo": "HINDALCO.NS",
+    "nse": "HINDALCO",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "HINDPETRO",
+    "name": "Hindustan Petroleum Corporation Limited",
+    "exchange": "NSE",
+    "yahoo": "HINDPETRO.NS",
+    "nse": "HINDPETRO",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "HINDUNILVR",
+    "name": "Hindustan Unilever Limited",
+    "exchange": "NSE",
+    "yahoo": "HINDUNILVR.NS",
+    "nse": "HINDUNILVR",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "HINDZINC",
+    "name": "Hindustan Zinc Limited",
+    "exchange": "NSE",
+    "yahoo": "HINDZINC.NS",
+    "nse": "HINDZINC",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "HUDCO",
+    "name": "Housing & Urban Development Corporation Limited",
+    "exchange": "NSE",
+    "yahoo": "HUDCO.NS",
+    "nse": "HUDCO",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "ICICIBANK",
+    "name": "ICICI Bank Limited",
+    "exchange": "NSE",
+    "yahoo": "ICICIBANK.NS",
+    "nse": "ICICIBANK",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "ICICIGI",
+    "name": "ICICI Lombard General Insurance Company Limited",
+    "exchange": "NSE",
+    "yahoo": "ICICIGI.NS",
+    "nse": "ICICIGI",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "ICICIPRULI",
+    "name": "ICICI Prudential Life Insurance Company Limited",
+    "exchange": "NSE",
+    "yahoo": "ICICIPRULI.NS",
+    "nse": "ICICIPRULI",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "IDEA",
+    "name": "Vodafone Idea Limited",
+    "exchange": "NSE",
+    "yahoo": "IDEA.NS",
+    "nse": "IDEA",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "IDFCFIRSTB",
+    "name": "IDFC First Bank Limited",
+    "exchange": "NSE",
+    "yahoo": "IDFCFIRSTB.NS",
+    "nse": "IDFCFIRSTB",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "IEX",
+    "name": "Indian Energy Exchange Limited",
+    "exchange": "NSE",
+    "yahoo": "IEX.NS",
+    "nse": "IEX",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "IGL",
+    "name": "Indraprastha Gas Limited",
+    "exchange": "NSE",
+    "yahoo": "IGL.NS",
+    "nse": "IGL",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "IIFL",
+    "name": "IIFL Finance Limited",
+    "exchange": "NSE",
+    "yahoo": "IIFL.NS",
+    "nse": "IIFL",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "INDHOTEL",
+    "name": "The Indian Hotels Company Limited",
+    "exchange": "NSE",
+    "yahoo": "INDHOTEL.NS",
+    "nse": "INDHOTEL",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "INDIANB",
+    "name": "Indian Bank",
+    "exchange": "NSE",
+    "yahoo": "INDIANB.NS",
+    "nse": "INDIANB",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "INDIGO",
+    "name": "InterGlobe Aviation Limited",
+    "exchange": "NSE",
+    "yahoo": "INDIGO.NS",
+    "nse": "INDIGO",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "INDUSINDBK",
+    "name": "IndusInd Bank Limited",
+    "exchange": "NSE",
+    "yahoo": "INDUSINDBK.NS",
+    "nse": "INDUSINDBK",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "INDUSTOWER",
+    "name": "Indus Towers Limited",
+    "exchange": "NSE",
+    "yahoo": "INDUSTOWER.NS",
+    "nse": "INDUSTOWER",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "INFY",
+    "name": "Infosys Limited",
+    "exchange": "NSE",
+    "yahoo": "INFY.NS",
+    "nse": "INFY",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "INOXWIND",
+    "name": "Inox Wind Limited",
+    "exchange": "NSE",
+    "yahoo": "INOXWIND.NS",
+    "nse": "INOXWIND",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "IOC",
+    "name": "Indian Oil Corporation Limited",
+    "exchange": "NSE",
+    "yahoo": "IOC.NS",
+    "nse": "IOC",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "IRCTC",
+    "name": "Indian Railway Catering And Tourism Corporation Limited",
+    "exchange": "NSE",
+    "yahoo": "IRCTC.NS",
+    "nse": "IRCTC",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "IREDA",
+    "name": "Indian Renewable Energy Development Agency Limited",
+    "exchange": "NSE",
+    "yahoo": "IREDA.NS",
+    "nse": "IREDA",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "IRFC",
+    "name": "Indian Railway Finance Corporation Limited",
+    "exchange": "NSE",
+    "yahoo": "IRFC.NS",
+    "nse": "IRFC",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "ITC",
+    "name": "ITC Limited",
+    "exchange": "NSE",
+    "yahoo": "ITC.NS",
+    "nse": "ITC",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "JINDALSTEL",
+    "name": "JINDAL STEEL LIMITED",
+    "exchange": "NSE",
+    "yahoo": "JINDALSTEL.NS",
+    "nse": "JINDALSTEL",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "JIOFIN",
+    "name": "Jio Financial Services Limited",
+    "exchange": "NSE",
+    "yahoo": "JIOFIN.NS",
+    "nse": "JIOFIN",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "JSWENERGY",
+    "name": "JSW Energy Limited",
+    "exchange": "NSE",
+    "yahoo": "JSWENERGY.NS",
+    "nse": "JSWENERGY",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "JSWSTEEL",
+    "name": "JSW Steel Limited",
+    "exchange": "NSE",
+    "yahoo": "JSWSTEEL.NS",
+    "nse": "JSWSTEEL",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "JUBLFOOD",
+    "name": "Jubilant Foodworks Limited",
+    "exchange": "NSE",
+    "yahoo": "JUBLFOOD.NS",
+    "nse": "JUBLFOOD",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "KALYANKJIL",
+    "name": "Kalyan Jewellers India Limited",
+    "exchange": "NSE",
+    "yahoo": "KALYANKJIL.NS",
+    "nse": "KALYANKJIL",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "KAYNES",
+    "name": "Kaynes Technology India Limited",
+    "exchange": "NSE",
+    "yahoo": "KAYNES.NS",
+    "nse": "KAYNES",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "KEI",
+    "name": "KEI Industries Limited",
+    "exchange": "NSE",
+    "yahoo": "KEI.NS",
+    "nse": "KEI",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "KFINTECH",
+    "name": "Kfin Technologies Limited",
+    "exchange": "NSE",
+    "yahoo": "KFINTECH.NS",
+    "nse": "KFINTECH",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "KOTAKBANK",
+    "name": "Kotak Mahindra Bank Limited",
+    "exchange": "NSE",
+    "yahoo": "KOTAKBANK.NS",
+    "nse": "KOTAKBANK",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "KPITTECH",
+    "name": "KPIT Technologies Limited",
+    "exchange": "NSE",
+    "yahoo": "KPITTECH.NS",
+    "nse": "KPITTECH",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "LAURUSLABS",
+    "name": "Laurus Labs Limited",
+    "exchange": "NSE",
+    "yahoo": "LAURUSLABS.NS",
+    "nse": "LAURUSLABS",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "LICHSGFIN",
+    "name": "LIC Housing Finance Limited",
+    "exchange": "NSE",
+    "yahoo": "LICHSGFIN.NS",
+    "nse": "LICHSGFIN",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "LICI",
+    "name": "Life Insurance Corporation Of India",
+    "exchange": "NSE",
+    "yahoo": "LICI.NS",
+    "nse": "LICI",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "LODHA",
+    "name": "Lodha Developers Limited",
+    "exchange": "NSE",
+    "yahoo": "LODHA.NS",
+    "nse": "LODHA",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "LT",
+    "name": "Larsen & Toubro Limited",
+    "exchange": "NSE",
+    "yahoo": "LT.NS",
+    "nse": "LT",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "LTF",
+    "name": "L&T Finance Limited",
+    "exchange": "NSE",
+    "yahoo": "LTF.NS",
+    "nse": "LTF",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "LTIM",
+    "name": "LTIMindtree Limited",
+    "exchange": "NSE",
+    "yahoo": "LTIM.NS",
+    "nse": "LTIM",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "LUPIN",
+    "name": "Lupin Limited",
+    "exchange": "NSE",
+    "yahoo": "LUPIN.NS",
+    "nse": "LUPIN",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "M&M",
+    "name": "Mahindra & Mahindra Limited",
+    "exchange": "NSE",
+    "yahoo": "M&M.NS",
+    "nse": "M&M",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "MANAPPURAM",
+    "name": "Manappuram Finance Limited",
+    "exchange": "NSE",
+    "yahoo": "MANAPPURAM.NS",
+    "nse": "MANAPPURAM",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "MANKIND",
+    "name": "Mankind Pharma Limited",
+    "exchange": "NSE",
+    "yahoo": "MANKIND.NS",
+    "nse": "MANKIND",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "MARICO",
+    "name": "Marico Limited",
+    "exchange": "NSE",
+    "yahoo": "MARICO.NS",
+    "nse": "MARICO",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "MARUTI",
+    "name": "Maruti Suzuki India Limited",
+    "exchange": "NSE",
+    "yahoo": "MARUTI.NS",
+    "nse": "MARUTI",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "MAXHEALTH",
+    "name": "Max Healthcare Institute Limited",
+    "exchange": "NSE",
+    "yahoo": "MAXHEALTH.NS",
+    "nse": "MAXHEALTH",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "MAZDOCK",
+    "name": "Mazagon Dock Shipbuilders Limited",
+    "exchange": "NSE",
+    "yahoo": "MAZDOCK.NS",
+    "nse": "MAZDOCK",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "MCX",
+    "name": "Multi Commodity Exchange of India Limited",
+    "exchange": "NSE",
+    "yahoo": "MCX.NS",
+    "nse": "MCX",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "MFSL",
+    "name": "Max Financial Services Limited",
+    "exchange": "NSE",
+    "yahoo": "MFSL.NS",
+    "nse": "MFSL",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "MOTHERSON",
+    "name": "Samvardhana Motherson International Limited",
+    "exchange": "NSE",
+    "yahoo": "MOTHERSON.NS",
+    "nse": "MOTHERSON",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "MPHASIS",
+    "name": "MphasiS Limited",
+    "exchange": "NSE",
+    "yahoo": "MPHASIS.NS",
+    "nse": "MPHASIS",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "MUTHOOTFIN",
+    "name": "Muthoot Finance Limited",
+    "exchange": "NSE",
+    "yahoo": "MUTHOOTFIN.NS",
+    "nse": "MUTHOOTFIN",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "NATIONALUM",
+    "name": "National Aluminium Company Limited",
+    "exchange": "NSE",
+    "yahoo": "NATIONALUM.NS",
+    "nse": "NATIONALUM",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "NAUKRI",
+    "name": "Info Edge (India) Limited",
+    "exchange": "NSE",
+    "yahoo": "NAUKRI.NS",
+    "nse": "NAUKRI",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "NBCC",
+    "name": "NBCC (India) Limited",
+    "exchange": "NSE",
+    "yahoo": "NBCC.NS",
+    "nse": "NBCC",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "NCC",
+    "name": "NCC Limited",
+    "exchange": "NSE",
+    "yahoo": "NCC.NS",
+    "nse": "NCC",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "NESTLEIND",
+    "name": "Nestle India Limited",
+    "exchange": "NSE",
+    "yahoo": "NESTLEIND.NS",
+    "nse": "NESTLEIND",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "NHPC",
+    "name": "NHPC Limited",
+    "exchange": "NSE",
+    "yahoo": "NHPC.NS",
+    "nse": "NHPC",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "NMDC",
+    "name": "NMDC Limited",
+    "exchange": "NSE",
+    "yahoo": "NMDC.NS",
+    "nse": "NMDC",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "NTPC",
+    "name": "NTPC Limited",
+    "exchange": "NSE",
+    "yahoo": "NTPC.NS",
+    "nse": "NTPC",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "NUVAMA",
+    "name": "Nuvama Wealth Management Limited",
+    "exchange": "NSE",
+    "yahoo": "NUVAMA.NS",
+    "nse": "NUVAMA",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "NYKAA",
+    "name": "FSN E-Commerce Ventures Limited",
+    "exchange": "NSE",
+    "yahoo": "NYKAA.NS",
+    "nse": "NYKAA",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "OBEROIRLTY",
+    "name": "Oberoi Realty Limited",
+    "exchange": "NSE",
+    "yahoo": "OBEROIRLTY.NS",
+    "nse": "OBEROIRLTY",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "OFSS",
+    "name": "Oracle Financial Services Software Limited",
+    "exchange": "NSE",
+    "yahoo": "OFSS.NS",
+    "nse": "OFSS",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "OIL",
+    "name": "Oil India Limited",
+    "exchange": "NSE",
+    "yahoo": "OIL.NS",
+    "nse": "OIL",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "ONGC",
+    "name": "Oil & Natural Gas Corporation Limited",
+    "exchange": "NSE",
+    "yahoo": "ONGC.NS",
+    "nse": "ONGC",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "PAGEIND",
+    "name": "Page Industries Limited",
+    "exchange": "NSE",
+    "yahoo": "PAGEIND.NS",
+    "nse": "PAGEIND",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "PATANJALI",
+    "name": "Patanjali Foods Limited",
+    "exchange": "NSE",
+    "yahoo": "PATANJALI.NS",
+    "nse": "PATANJALI",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "PAYTM",
+    "name": "One 97 Communications Limited",
+    "exchange": "NSE",
+    "yahoo": "PAYTM.NS",
+    "nse": "PAYTM",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "PERSISTENT",
+    "name": "Persistent Systems Limited",
+    "exchange": "NSE",
+    "yahoo": "PERSISTENT.NS",
+    "nse": "PERSISTENT",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "PETRONET",
+    "name": "Petronet LNG Limited",
+    "exchange": "NSE",
+    "yahoo": "PETRONET.NS",
+    "nse": "PETRONET",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "PFC",
+    "name": "Power Finance Corporation Limited",
+    "exchange": "NSE",
+    "yahoo": "PFC.NS",
+    "nse": "PFC",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "PGEL",
+    "name": "PG Electroplast Limited",
+    "exchange": "NSE",
+    "yahoo": "PGEL.NS",
+    "nse": "PGEL",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "PHOENIXLTD",
+    "name": "The Phoenix Mills Limited",
+    "exchange": "NSE",
+    "yahoo": "PHOENIXLTD.NS",
+    "nse": "PHOENIXLTD",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "PIDILITIND",
+    "name": "Pidilite Industries Limited",
+    "exchange": "NSE",
+    "yahoo": "PIDILITIND.NS",
+    "nse": "PIDILITIND",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "PIIND",
+    "name": "PI Industries Limited",
+    "exchange": "NSE",
+    "yahoo": "PIIND.NS",
+    "nse": "PIIND",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "PNB",
+    "name": "Punjab National Bank",
+    "exchange": "NSE",
+    "yahoo": "PNB.NS",
+    "nse": "PNB",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "PNBHOUSING",
+    "name": "PNB Housing Finance Limited",
+    "exchange": "NSE",
+    "yahoo": "PNBHOUSING.NS",
+    "nse": "PNBHOUSING",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "POLICYBZR",
+    "name": "PB Fintech Limited",
+    "exchange": "NSE",
+    "yahoo": "POLICYBZR.NS",
+    "nse": "POLICYBZR",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "POLYCAB",
+    "name": "Polycab India Limited",
+    "exchange": "NSE",
+    "yahoo": "POLYCAB.NS",
+    "nse": "POLYCAB",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "POWERGRID",
+    "name": "Power Grid Corporation of India Limited",
+    "exchange": "NSE",
+    "yahoo": "POWERGRID.NS",
+    "nse": "POWERGRID",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "POWERINDIA",
+    "name": "Hitachi Energy India Limited",
+    "exchange": "NSE",
+    "yahoo": "POWERINDIA.NS",
+    "nse": "POWERINDIA",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "PPLPHARMA",
+    "name": "Piramal Pharma Limited",
+    "exchange": "NSE",
+    "yahoo": "PPLPHARMA.NS",
+    "nse": "PPLPHARMA",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "PRESTIGE",
+    "name": "Prestige Estates Projects Limited",
+    "exchange": "NSE",
+    "yahoo": "PRESTIGE.NS",
+    "nse": "PRESTIGE",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "RBLBANK",
+    "name": "RBL Bank Limited",
+    "exchange": "NSE",
+    "yahoo": "RBLBANK.NS",
+    "nse": "RBLBANK",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "RECLTD",
+    "name": "REC Limited",
+    "exchange": "NSE",
+    "yahoo": "RECLTD.NS",
+    "nse": "RECLTD",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "RELIANCE",
+    "name": "Reliance Industries Limited",
+    "exchange": "NSE",
+    "yahoo": "RELIANCE.NS",
+    "nse": "RELIANCE",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "RVNL",
+    "name": "Rail Vikas Nigam Limited",
+    "exchange": "NSE",
+    "yahoo": "RVNL.NS",
+    "nse": "RVNL",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "SAIL",
+    "name": "Steel Authority of India Limited",
+    "exchange": "NSE",
+    "yahoo": "SAIL.NS",
+    "nse": "SAIL",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "SAMMAANCAP",
+    "name": "Sammaan Capital Limited",
+    "exchange": "NSE",
+    "yahoo": "SAMMAANCAP.NS",
+    "nse": "SAMMAANCAP",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "SBICARD",
+    "name": "SBI Cards and Payment Services Limited",
+    "exchange": "NSE",
+    "yahoo": "SBICARD.NS",
+    "nse": "SBICARD",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "SBILIFE",
+    "name": "SBI Life Insurance Company Limited",
+    "exchange": "NSE",
+    "yahoo": "SBILIFE.NS",
+    "nse": "SBILIFE",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "SBIN",
+    "name": "State Bank of India",
+    "exchange": "NSE",
+    "yahoo": "SBIN.NS",
+    "nse": "SBIN",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "SHREECEM",
+    "name": "SHREE CEMENT LIMITED",
+    "exchange": "NSE",
+    "yahoo": "SHREECEM.NS",
+    "nse": "SHREECEM",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "SHRIRAMFIN",
+    "name": "Shriram Finance Limited",
+    "exchange": "NSE",
+    "yahoo": "SHRIRAMFIN.NS",
+    "nse": "SHRIRAMFIN",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "SIEMENS",
+    "name": "Siemens Limited",
+    "exchange": "NSE",
+    "yahoo": "SIEMENS.NS",
+    "nse": "SIEMENS",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "SOLARINDS",
+    "name": "Solar Industries India Limited",
+    "exchange": "NSE",
+    "yahoo": "SOLARINDS.NS",
+    "nse": "SOLARINDS",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "SONACOMS",
+    "name": "Sona BLW Precision Forgings Limited",
+    "exchange": "NSE",
+    "yahoo": "SONACOMS.NS",
+    "nse": "SONACOMS",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "SRF",
+    "name": "SRF Limited",
+    "exchange": "NSE",
+    "yahoo": "SRF.NS",
+    "nse": "SRF",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "SUNPHARMA",
+    "name": "Sun Pharmaceutical Industries Limited",
+    "exchange": "NSE",
+    "yahoo": "SUNPHARMA.NS",
+    "nse": "SUNPHARMA",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "SUPREMEIND",
+    "name": "Supreme Industries Limited",
+    "exchange": "NSE",
+    "yahoo": "SUPREMEIND.NS",
+    "nse": "SUPREMEIND",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "SUZLON",
+    "name": "Suzlon Energy Limited",
+    "exchange": "NSE",
+    "yahoo": "SUZLON.NS",
+    "nse": "SUZLON",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "SYNGENE",
+    "name": "Syngene International Limited",
+    "exchange": "NSE",
+    "yahoo": "SYNGENE.NS",
+    "nse": "SYNGENE",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "TATACONSUM",
+    "name": "TATA CONSUMER PRODUCTS LIMITED",
+    "exchange": "NSE",
+    "yahoo": "TATACONSUM.NS",
+    "nse": "TATACONSUM",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "TATAELXSI",
+    "name": "Tata Elxsi Limited",
+    "exchange": "NSE",
+    "yahoo": "TATAELXSI.NS",
+    "nse": "TATAELXSI",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "TATAMOTORS",
+    "name": "TATAMOTORS",
+    "exchange": "BSE",
+    "yahoo": "TATAMOTORS.BO",
+    "bse": "500570",
+    "sector": "Equity"
+  },
+  {
+    "symbol": "TATAPOWER",
+    "name": "Tata Power Company Limited",
+    "exchange": "NSE",
+    "yahoo": "TATAPOWER.NS",
+    "nse": "TATAPOWER",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "TATASTEEL",
+    "name": "Tata Steel Limited",
+    "exchange": "NSE",
+    "yahoo": "TATASTEEL.NS",
+    "nse": "TATASTEEL",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "TATATECH",
+    "name": "Tata Technologies Limited",
+    "exchange": "NSE",
+    "yahoo": "TATATECH.NS",
+    "nse": "TATATECH",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "TCS",
+    "name": "Tata Consultancy Services Limited",
+    "exchange": "NSE",
+    "yahoo": "TCS.NS",
+    "nse": "TCS",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "TECHM",
+    "name": "Tech Mahindra Limited",
+    "exchange": "NSE",
+    "yahoo": "TECHM.NS",
+    "nse": "TECHM",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "TIINDIA",
+    "name": "Tube Investments of India Limited",
+    "exchange": "NSE",
+    "yahoo": "TIINDIA.NS",
+    "nse": "TIINDIA",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "TITAGARH",
+    "name": "TITAGARH RAIL SYSTEMS LIMITED",
+    "exchange": "NSE",
+    "yahoo": "TITAGARH.NS",
+    "nse": "TITAGARH",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "TITAN",
+    "name": "Titan Company Limited",
+    "exchange": "NSE",
+    "yahoo": "TITAN.NS",
+    "nse": "TITAN",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "TMPV",
+    "name": "Tata Motors Passenger Vehicles Limited",
+    "exchange": "NSE",
+    "yahoo": "TMPV.NS",
+    "nse": "TMPV",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "TORNTPHARM",
+    "name": "Torrent Pharmaceuticals Limited",
+    "exchange": "NSE",
+    "yahoo": "TORNTPHARM.NS",
+    "nse": "TORNTPHARM",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "TORNTPOWER",
+    "name": "Torrent Power Limited",
+    "exchange": "NSE",
+    "yahoo": "TORNTPOWER.NS",
+    "nse": "TORNTPOWER",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "TRENT",
+    "name": "Trent Limited",
+    "exchange": "NSE",
+    "yahoo": "TRENT.NS",
+    "nse": "TRENT",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "TVSMOTOR",
+    "name": "TVS Motor Company Limited",
+    "exchange": "NSE",
+    "yahoo": "TVSMOTOR.NS",
+    "nse": "TVSMOTOR",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "ULTRACEMCO",
+    "name": "UltraTech Cement Limited",
+    "exchange": "NSE",
+    "yahoo": "ULTRACEMCO.NS",
+    "nse": "ULTRACEMCO",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "UNIONBANK",
+    "name": "Union Bank of India",
+    "exchange": "NSE",
+    "yahoo": "UNIONBANK.NS",
+    "nse": "UNIONBANK",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "UNITDSPR",
+    "name": "United Spirits Limited",
+    "exchange": "NSE",
+    "yahoo": "UNITDSPR.NS",
+    "nse": "UNITDSPR",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "UNOMINDA",
+    "name": "UNO Minda Limited",
+    "exchange": "NSE",
+    "yahoo": "UNOMINDA.NS",
+    "nse": "UNOMINDA",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "UPL",
+    "name": "UPL Limited",
+    "exchange": "NSE",
+    "yahoo": "UPL.NS",
+    "nse": "UPL",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "VBL",
+    "name": "Varun Beverages Limited",
+    "exchange": "NSE",
+    "yahoo": "VBL.NS",
+    "nse": "VBL",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "VEDL",
+    "name": "Vedanta Limited",
+    "exchange": "NSE",
+    "yahoo": "VEDL.NS",
+    "nse": "VEDL",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "VOLTAS",
+    "name": "Voltas Limited",
+    "exchange": "NSE",
+    "yahoo": "VOLTAS.NS",
+    "nse": "VOLTAS",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "WIPRO",
+    "name": "Wipro Limited",
+    "exchange": "NSE",
+    "yahoo": "WIPRO.NS",
+    "nse": "WIPRO",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "YESBANK",
+    "name": "Yes Bank Limited",
+    "exchange": "NSE",
+    "yahoo": "YESBANK.NS",
+    "nse": "YESBANK",
+    "sector": "FNO"
+  },
+  {
+    "symbol": "ZYDUSLIFE",
+    "name": "Zydus Lifesciences Limited",
+    "exchange": "NSE",
+    "yahoo": "ZYDUSLIFE.NS",
+    "nse": "ZYDUSLIFE",
+    "sector": "FNO"
+  }
+]

@@ -1,0 +1,62 @@
+2025-11-14 16:20:50,858 - stock_streaming_scheduler - INFO -    Total stocks: 95
+2025-11-14 16:20:50,858 - stock_streaming_scheduler - INFO -    Batch size: 50 stocks per minute
+2025-11-14 16:20:50,858 - stock_streaming_scheduler - INFO -    Estimated batches: 2
+2025-11-14 16:20:50,858 - stock_streaming_scheduler - INFO - 
+======================================================================
+2025-11-14 16:20:50,868 - stock_streaming_scheduler - INFO - ======================================================================
+2025-11-14 16:20:50,870 - stock_streaming_scheduler - INFO -    - Data collection: Every minute at :00 seconds
+2025-11-14 16:20:50,870 - stock_streaming_scheduler - INFO -    - Market hours: Mon-Fri 9:00 AM - 3:30 PM IST
+2025-11-14 16:20:50,870 - stock_streaming_scheduler - INFO -    - Status check: Every hour
+2025-11-14 16:20:50,870 - stock_streaming_scheduler - INFO - ======================================================================
+
+2025-11-14 16:20:50,870 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-11-14 16:20:50,870 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-11-14 16:20:50,870 - stock_streaming_scheduler - INFO - 
+======================================================================
+2025-11-14 16:20:50,872 - stock_streaming_scheduler - INFO -    Total stocks: 95
+2025-11-14 16:20:50,873 - stock_streaming_scheduler - INFO -    Batch size: 50
+2025-11-14 16:20:50,873 - stock_streaming_scheduler - INFO -    Market open: False
+2025-11-14 16:20:50,873 - stock_streaming_scheduler - INFO - ======================================================================
+
+2025-11-14 16:20:50,874 - apscheduler.scheduler - INFO - Added job "Stock Minute Data Collection" to job store "default"
+2025-11-14 16:20:50,874 - apscheduler.scheduler - INFO - Added job "Status Check" to job store "default"
+2025-11-14 16:20:50,874 - apscheduler.scheduler - INFO - Scheduler started
+2025-11-14 16:26:37,495 - stock_streaming_scheduler - INFO - Stock Streaming Scheduler initialized
+2025-11-14 16:26:37,495 - stock_streaming_scheduler - INFO -    Total stocks: 95
+2025-11-14 16:26:37,495 - stock_streaming_scheduler - INFO -    Batch size: 50 stocks per minute
+2025-11-14 16:26:37,495 - stock_streaming_scheduler - INFO -    Estimated batches: 2
+2025-11-14 16:26:37,498 - stock_streaming_scheduler - INFO - 
+======================================================================
+2025-11-14 16:26:37,498 - stock_streaming_scheduler - INFO - Starting Stock Streaming Scheduler
+2025-11-14 16:26:37,498 - stock_streaming_scheduler - INFO - ======================================================================
+2025-11-14 16:26:37,498 - stock_streaming_scheduler - INFO - Schedule:
+2025-11-14 16:26:37,498 - stock_streaming_scheduler - INFO -    - Data collection: Every minute at :00 seconds
+2025-11-14 16:26:37,498 - stock_streaming_scheduler - INFO -    - Market hours: Mon-Fri 9:00 AM - 3:30 PM IST
+2025-11-14 16:26:37,498 - stock_streaming_scheduler - INFO -    - Status check: Every hour
+2025-11-14 16:26:37,498 - stock_streaming_scheduler - INFO - ======================================================================
+
+2025-11-14 16:26:37,500 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-11-14 16:26:37,500 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-11-14 16:26:37,500 - stock_streaming_scheduler - INFO - 
+======================================================================
+2025-11-14 16:26:37,500 - stock_streaming_scheduler - INFO - Stock Scheduler Status - 2025-11-14 16:26:37 IST
+2025-11-14 16:26:37,500 - stock_streaming_scheduler - INFO -    Total stocks: 95
+2025-11-14 16:26:37,500 - stock_streaming_scheduler - INFO -    Batch size: 50
+2025-11-14 16:26:37,500 - stock_streaming_scheduler - INFO -    Market open: False
+2025-11-14 16:26:37,500 - stock_streaming_scheduler - INFO - ======================================================================
+
+2025-11-14 16:26:37,500 - stock_streaming_scheduler - INFO - Scheduler started - Press Ctrl+C to stop
+
+2025-11-14 16:26:37,501 - apscheduler.scheduler - INFO - Added job "Stock Minute Data Collection" to job store "default"
+2025-11-14 16:26:37,501 - apscheduler.scheduler - INFO - Added job "Status Check" to job store "default"
+2025-11-14 16:26:37,501 - apscheduler.scheduler - INFO - Scheduler started
+2025-11-14 17:00:00,010 - apscheduler.executors.default - INFO - Running job "Status Check (trigger: cron[minute='0'], next run at: 2025-11-14 17:00:00 IST)" (scheduled at 2025-11-14 17:00:00+05:30)
+2025-11-14 17:00:00,011 - stock_streaming_scheduler - INFO - 
+======================================================================
+2025-11-14 17:00:00,011 - stock_streaming_scheduler - INFO - Stock Scheduler Status - 2025-11-14 17:00:00 IST
+2025-11-14 17:00:00,011 - stock_streaming_scheduler - INFO -    Total stocks: 95
+2025-11-14 17:00:00,011 - stock_streaming_scheduler - INFO -    Batch size: 50
+2025-11-14 17:00:00,011 - stock_streaming_scheduler - INFO -    Market open: False
+2025-11-14 17:00:00,011 - stock_streaming_scheduler - INFO - ======================================================================
+
+2025-11-14 17:00:00,012 - apscheduler.executors.default - INFO - Job "Status Check (trigger: cron[minute='0'], next run at: 2025-11-14 18:00:00 IST)" executed successfully
